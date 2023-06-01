@@ -19,16 +19,16 @@ https://dtvott-abc.akamaized.net/dash_live_1272/dash/1272_LIGA_1_MAX-audio_72882
 https://w7.supercast2.com:999/hls/espnsur.m3u8?md5=ThY6OrD4E7eVMGAVRrRK_A&expires=1685664127
 
 #EXTINF:-1, Espn 2 | PE
-https://w7.supercast2.com:999/hls/espnsur.m3u8?md5=ThY6OrD4E7eVMGAVRrRK_A&expires=1685664127
+https://w7.supercast2.com:999/hls/espnsur.m3u8
 
 #EXTINF:-1, Espn 3 | PE
-https://w8.supercast2.com:999/hls/espn3sur.m3u8?md5=dcZ4sPEWl4TxX1zq5YlePQ&expires=1685664330
+https://w8.supercast2.com:999/hls/espn3sur.m3u8
 
 #EXTINF:-1, Espn 4 | PE
 https://dtvott-cbc.akamaized.net/dash_live_1119/dash/1119_ESPN_4-video=3930000-101139434976411.dash
 
 #EXTINF:-1, DirecTv | PE
-https://w7.supercast2.com:999/hls/directvlive.m3u8?md5=KNqje0NxCwo0LkD4_TO5Rg&expires=1685664531
+https://w7.supercast2.com:999/hls/directvlive.m3u8
 
 
 
