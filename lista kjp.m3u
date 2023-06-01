@@ -1,0 +1,4146 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/7oNe8xj.png" group-title="General",002 Radio TV (720p)
+https://cdn.002radio.com:3909/live/radio002live.m3u8
+
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies",A3Cine (1080p)
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Music",Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 tvg-id="ActivaTV.hn" tvg-logo="https://i.imgur.com/S69lDu4.png" group-title="General",Activa TV (720p)
+https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="Business;Legislative;News",ADOCCO TV (720p)
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac) [Not 24/7]
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlegreTVRD.do" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="Entertainment",Alegre TV (720p)
+https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
+
+#EXTINF:-1 tvg-id="AlmayaTV.py" tvg-logo="https://iptv.com.py/wp-content/uploads/2021/09/almalogo2021-300x153.png" group-title="Undefined",AlmayaTV
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlternativaTV.cl" tvg-logo="https://i.imgur.com/KCrSbgv.png" group-title="Undefined",Alternativa TV (Huasco) (720p) [Not 24/7]
+https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt" tvg-logo="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.6435-1/162699231_125115042954479_1031828036337803300_n.jpg?stp=dst-jpg_p200x200&_nc_cat=109&ccb=1-7&_nc_sid=c6021c&_nc_ohc=WeXU8sV41lAAX-YK-y4&_nc_ht=scontent-yyz1-1.xx&oh=00_AfD4xPkUqviLTktTcjDHlkGbp5PMIeEreitB9fOis3mHHw&oe=64990405" group-title="Religious",Amigos TV Chiquimula (480p)
+https://tv91.hostingnuclear.com:19360/amigostv/amigostv.m3u8
+
+
+#EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Religious",Andes Televisión (Sicusani) (720p) [Not 24/7]
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnexionTV.cr" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="Undefined",Anexión TV Canal 36 (1080p)
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATNTelevision.co" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="Undefined",ATN Televisión (Cúcuta | Norte de Santander) (640p)
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AustralTV.ec" tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="General",Austral TV (1080p)
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="Undefined",Bayres TV (720p)
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+#EXTINF:-1 tvg-id="Bellavision.do" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Undefined",Bellavisión (1080p)
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV (720p) [Not 24/7]
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="BonaoTV.do" tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="Undefined",Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",Cablenoticias (Bogotà | Cundinamarca) (1080p)
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Undefined",Cali TV (Santiago de Cali | Valle del Cauca) (540p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="General",Canal 1 (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal2.co" tvg-logo="https://i.imgur.com/BCrsZTQ.png" group-title="General",Canal 2 (720p)
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+
+#EXTINF:-1 tvg-id="Canal6MardePlata.ar" tvg-logo="https://i.imgur.com/fNaIrvV.png" group-title="Undefined",Canal 6 Mar del Plata (480p)
+https://panel.dattalive.com/8166/8166/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BarbeTV.gt" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="Undefined",Canal 9 Barbe TV (720p)
+http://204.12.202.90:8080/playgt/playgt2023/103
+
+#EXTINF:-1 tvg-id="IxchiguanEstereoTV.gt" tvg-logo="https://i.imgur.com/FMrB17k.png" group-title="Entertainment",Canal 9 Ixchiguán (720p)
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General",Canal 9 Resistencia (1080p)
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal14Codazzi.co" tvg-logo="https://i.imgur.com/wNSUMhJ.png" group-title="Entertainment",Canal 14 Codazzi (720p)
+https://eu1.servers10.com:19360/8056/8056.m3u8
+
+#EXTINF:-1 tvg-id="Canal100Chinique.gt" tvg-logo="https://i.imgur.com/ygNKJXx.png" group-title="Undefined",Canal 100 Chinique (480p)
+http://204.12.202.90:8080/playgt/playgt2023/106
+
+#EXTINF:-1 tvg-id="CanalBlu.ar" tvg-logo="https://i.imgur.com/EVe8j4y.png" group-title="Undefined",Canal Blu (720p)
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/6ozsYtj.png" group-title="General",Canal Capital (1080p)
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CanalInstitucionalTV.co" tvg-logo="https://i.imgur.com/OzxNMDM.png" group-title="General",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Outdoor",Canal Rural (720p)
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalSantaMartaTV.co" tvg-logo="https://i.imgur.com/HbWadhJ.png" group-title="General",Canal Santa Marta TV (1080p)
+https://tv.portalexpress.es:3863/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="CanalTelefamilia.co" tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="Religious",Canal Telefamilia (360p)
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalVIP.co" tvg-logo="https://i.imgur.com/SBo3FBY.png" group-title="Undefined",Canal VIP
+https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="Undefined",Canal Visión Dorada (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+
+#EXTINF:-1 tvg-id="CantinaTV.ve" tvg-logo="https://i.imgur.com/JWMk2fP.png" group-title="Music",Cantina TV (1080p)
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol TV (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español (576p)
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="Movies",Cine Sureño (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+
+#EXTINF:-1 tvg-id="CNCCajamarca.pe" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="Undefined",CNC Cajamarca (720p)
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+
+#EXTINF:-1 tvg-id="CNCMedellin.co" tvg-logo="https://i.imgur.com/J1f4fNq.png" group-title="Undefined",CNC Medellín (720p)
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTV.co" tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="Undefined",CTV (Barranquilla | Atlántico) (1080p)
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTVCanal76.do" tvg-logo="https://i.imgur.com/nLRLsPn.png" group-title="General",CTV Canal 76 (720p)
+https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
+
+#EXTINF:-1 tvg-id="CTVInternacional.hn" tvg-logo="https://i.imgur.com/BcmQhry.png" group-title="Undefined",CTV Internacional (1080p)
+https://mediacp.us:8081/ctvhn/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DiosTeVe.hn" tvg-logo="https://i.imgur.com/7hNwUV2.png" group-title="Religious",Dios Te Ve (720p)
+https://emisoras.hn:8081/diostevetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiosTeVeKids.hn" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Kids;Religious",Dios Te Ve Infantil (720p)
+https://emisoras.hn:8081/diostevekids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.imgur.com/857OkFf.png" group-title="Education",Educanal
+https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Undefined",El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series",EnerGeek Fanpop (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa (720p)
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+#EXTINF:-1 tvg-id="GDMTV.do" tvg-logo="https://i.imgur.com/sroIZuc.png" group-title="Undefined",GDMTV (720p) [Not 24/7]
+https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="Argentina",El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-name="NRT 4 Monclova" tvg-logo="https://i.imgur.com/IudKE0n.png" tvg-id="noticiasnrt.com" group-title="México", NRT 4 Monclova
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" tvg-id="Lasestrellas.tv" grupo -title="México",Las Estrellas
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" tvg-id="PanamericanaTV.pe" grupo -title="Perú",Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="Argentina",Bayres TV (720p)
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal6MardePlata.ar" tvg-logo="https://i.imgur.com/fNaIrvV.png" group-title="Argentina",Canal 6 Mar del Plata (480p)
+https://panel.dattalive.com/8166/8166/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Argentina",El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Argentina",Kanal D Drama (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Argentina",LatinoKids (360p) [Not 24/7]
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Argentina",Magic Kids (486p)
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="Argentina",MusicTop (720p)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Argentina",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Argentina",Neox TV
+https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Argentina",RCN Más (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroMagico.ar" tvg-logo="https://i.imgur.com/jh1VknJ.png" group-title="Argentina",RetroMágico
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
+#EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Argentina",SEO TV (1080p)
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1 tvg-id="SEOTV2Kids.bo" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="Argentina",SEO TV Kids (1080p)
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF:-1 tvg-id="SEOTV3Novelas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Argentina",SEO TV Novelas (1080p)
+https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Argentina",SEO TV Películas (1080p)
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Argentina",Sicardi TV (720p)
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:-1 tvg-id="SoliveTV.ar" tvg-logo="https://i.imgur.com/dyUxugT.png" group-title="Argentina",Solive TV (720p)
+https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Argentina",SoloStandUp (480p) [Not 24/7]
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png" group-title="Argentina",Super Kaos TV (360p)
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-logo="https://i.imgur.com/LQCaoH9.png" group-title="Argentina",Tierra Mía TV (720p)
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Argentina",Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Argentina",Xtrema Animal (360p)
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Argentina",Xtrema Anime (360p)
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Argentina",Xtrema Cartoons (360p)
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Argentina",Xtrema Cine Acción (268p)
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAsia.ar" tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="Argentina",Xtrema Cine Asia (268p)
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="Argentina",Xtrema Cine Comedy (344p)
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaDrama.ar" tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="Argentina",Xtrema Cine Drama (360p)
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaEuropa.ar" tvg-logo="https://i.imgur.com/o4EMF7I.png" group-title="Argentina",Xtrema Cine Europa (360p)
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="Argentina",Xtrema Cine Family (274p)
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="Argentina",Xtrema Cine Hindi (272p)
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaLatina.ar" tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="Argentina",Xtrema Cine Latino (360p)
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaSuspenso.ar" tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="Argentina",Xtrema Cine Suspenso (360p)
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Argentina",Xtrema Cine Terror (270p)
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Argentina",Xtrema Retro Cartoons (360p)
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="Argentina",Xtrema Retro Series (360p)
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="Argentina",Xtrema Series (360p)
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Bolivia",Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CadenaA.bo" tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="Bolivia",Cadena A (720p)
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Chile",RCN Más (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Chile",Retro Plus 2 HD (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Chile",Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Chile",Retro Plus HD (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATNTelevision.co" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="Colombia",ATN Televisión (Cúcuta | Norte de Santander) (640p)
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ATV.co" tvg-logo="https://i.imgur.com/giPOGyi.png" group-title="Colombia",ATV (Soacha | Cundinamarca) (360p) [Not 24/7]
+https://movil.ejeserver.com/live/verteve.m3u8
+
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="Colombia",Cablenoticias (Bogotà | Cundinamarca) (1080p)
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Colombia",Cali TV (Santiago de Cali | Valle del Cauca) (540p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal 1 (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/6ozsYtj.png" group-title="Colombia",Canal Capital (1080p)
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalInstitucionalTV.co" tvg-logo="https://i.imgur.com/OzxNMDM.png" group-title="Colombia",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalSantaMartaTV.co" tvg-logo="https://i.imgur.com/HbWadhJ.png" group-title="Colombia",Canal Santa Marta TV (1080p)
+https://tv.portalexpress.es:3863/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="CanalTelefamilia.co" tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="Colombia",Canal Telefamilia (360p)
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalTelePalmar.co" tvg-logo="https://i.imgur.com/cAhlYUL.png" group-title="Colombia",Canal TelePalmar (480p)
+https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
+
+#EXTINF:-1 tvg-id="CanalVIP.co" tvg-logo="https://i.imgur.com/SBo3FBY.png" group-title="Colombia",Canal VIP
+https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="Colombia",Canal Visión Dorada (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Colombia",Caracol TV (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Colombia",CGTN Español (576p)
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="CNCMedellin.co" tvg-logo="https://i.imgur.com/J1f4fNq.png" group-title="Colombia",CNC Medellín (720p)
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cosmovision.co" tvg-logo="https://i.imgur.com/QlvYfEJ.png" group-title="Colombia",Cosmovision (720p)
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+
+#EXTINF:-1 tvg-id="CTV.co" tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="Colombia",CTV (Barranquilla | Atlántico) (1080p)
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="Colombia",Teleantioquia (Medellín | Antioquia) (360p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecafe.co" tvg-logo="https://i.imgur.com/GN4JWDJ.png" group-title="Colombia",Telecafé (Manizales | Caldas)
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/yuKjGKo.png" group-title="Colombia",Telecaribe (Puerto Colombia | Atlántico) (720p)
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
+
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia",Teleislas (San Andrés) (486p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="Colombia",Telepacífico (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trece.co" tvg-logo="https://i.imgur.com/nEBsIlf.png" group-title="Colombia",Trece (1080p)
+https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrecePlus.co" tvg-logo="https://i.imgur.com/jySvMsw.png" group-title="Colombia",Trece + (1080p)
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPenol.co" tvg-logo="https://lh3.googleusercontent.com/-IjTc4ETC9nM/YJrm_HJajaI/AAAAAAABCPA/SwuODmd0rtIduTCeQniwOaSBvR_YqDykgCK8BGAsYHg/s512/2021-05-11.png" group-title="Colombia",TV Peñol (720p)
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Colombia",Zoom (Bogotà | Cundinamarca) (1080p)
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+
+#EXTINF:-1,24 HORAS HD _
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39142
+
+#EXTINF:-1,CNN en Español HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39148
+
+#EXTINF:-1,Puerto Rico - Wapa 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/51533
+
+#EXTINF:-1,Puerto Rico - Wapa HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/51534
+
+#EXTINF:-1,Puerto Rico-Telemundo Puerto Rico
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/51540
+
+#EXTINF:-1,VENEZUELA  |  TLT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67452
+
+#EXTINF:-1,24H | Paw Patrol
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67744
+
+#EXTINF:-1,24H | Coraje - El Perro Cobarde
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67746
+
+#EXTINF:-1,24H | Los Picapiedra
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67747
+
+#EXTINF:-1,24H | The Walking Dead
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67749
+
+#EXTINF:-1,24H | Pokémon
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67750
+
+#EXTINF:-1,24H | Bob Esponja
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67751
+
+#EXTINF:-1,24H | Dinosaurios
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67753
+
+#EXTINF:-1,24H | Dragon Ball Z
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67754
+
+#EXTINF:-1,24H | Los 3 Chiflados
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67757
+
+#EXTINF:-1,24H | Batman
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67758
+
+#EXTINF:-1,24H | Timon y Pymba
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67762
+
+#EXTINF:-1,24H | Dragon Ball
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67764
+
+#EXTINF:-1,24H Kids | Dinosaurios (M)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67767
+
+#EXTINF:-1,24H Kids | Dragon Ball (M)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67768
+
+#EXTINF:-1,24H Kids | BOB ESPONJA (M)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67769
+
+#EXTINF:-1,24H Kids | Dragon Ball Z kai
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67770
+
+#EXTINF:-1,24H Kids | Hey Arnold
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67771
+
+#EXTINF:-1,24H Kids | Tom y Jerry
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67772
+
+#EXTINF:-1,24H Kids | Paw Patrol
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67773
+
+#EXTINF:-1,24h Kids | Don gato y su Pandilla
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67774
+
+#EXTINF:-1,24H | El principe del Rap
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67775
+
+#EXTINF:-1,24H | Mr Bean
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67776
+
+#EXTINF:-1,24H | Naruto shippuden
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67781
+
+#EXTINF:-1,24H | La casa de papel
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67782
+
+#EXTINF:-1,24/7 El Show de Scooby Doo
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67785
+
+#EXTINF:-1,24/7 Los padrinos mágicos
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67786
+
+#EXTINF:-1,24/7 El Show de Bugs Bunny
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67788
+
+#EXTINF:-1,24/7 Ben 10
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67790
+
+#EXTINF:-1,24/7 El Pájaro Loco y sus Amigos
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67791
+
+#EXTINF:-1,24/7 Las nuevas aventuras de Winnie the Pooh EN
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67793
+
+#EXTINF:-1,24/7 El Chavo del Ocho
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67795
+
+#EXTINF:-1,24/7 Futurama
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67796
+
+#EXTINF:-1,24/7 The Good Doctor
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67798
+
+#EXTINF:-1,24H | Naruto
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67801
+
+#EXTINF:-1,24H | Tom y Jerry
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67802
+
+#EXTINF:-1,24H | Ben 10
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67803
+
+#EXTINF:-1,24H | Batman SA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67804
+
+#EXTINF:-1,24H | La Pantera Rosa
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67805
+
+#EXTINF:-1,24H | Dragon Ball GT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67806
+
+#EXTINF:-1,24H | Dragon Ball Z
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67807
+
+#EXTINF:-1,24H | Dragon Ball
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67808
+
+#EXTINF:-1,24H | Los PicaPiedra
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67809
+
+#EXTINF:-1,24H | Gasparin y sus amigos
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67811
+
+#EXTINF:-1,24H | Gravity Falls
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67812
+
+#EXTINF:-1,24H | Mr. Bean
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67813
+
+#EXTINF:-1,24H | The Walking Dead
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67815
+
+#EXTINF:-1,24H | Iron Man
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67816
+
+#EXTINF:-1,24H | El Chema
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67817
+
+#EXTINF:-1,24H | Doraemon
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67819
+
+#EXTINF:-1,24H | Dragon Ball Z *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67820
+
+#EXTINF:-1,24H | Los Caballeros del  Zodiaco
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67822
+
+#EXTINF:-1,24H | Baron Rojo
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67823
+
+#EXTINF:-1,24H | Dragon Ball
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67824
+
+#EXTINF:-1,24H | Mi Bella Genio
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67825
+
+#EXTINF:-1,24H | iCarly
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67826
+
+#EXTINF:-1,24H | The Big Bang Theory
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67827
+
+#EXTINF:-1,24H | Dragon Ball Super
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67828
+
+#EXTINF:-1,24H | Cantinflas
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67829
+
+#EXTINF:-1,24H | Smallville
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67830
+
+#EXTINF:-1,24H | Pinky & Cerebro
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67832
+
+#EXTINF:-1,24H | El Chavo del 8
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67834
+
+#EXTINF:-1,24H | Hey Arnold
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67835
+
+#EXTINF:-1,24H | ALF
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67836
+
+#EXTINF:-1,24H | La Casa de Mickey Mouse
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67837
+
+#EXTINF:-1,PERU | America TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69794
+
+#EXTINF:-1,PERU | +CAPITAL TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69799
+
+#EXTINF:-1,PERU | ATV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69801
+
+#EXTINF:-1,PERU | GOLPERU HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69815
+
+#EXTINF:-1,PERU | LATINA FHD (EXCLUSIVO)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69821
+
+#EXTINF:-1,PERU | LATINA FHD P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69822
+
+
+#EXTINF:-1,24 Horas FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39144
+#EXTINF:-1,24 Horas hd op
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39145
+#EXTINF:-1,CNN ESPANOL SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39146
+#EXTINF:-1,CNN Espanol SD op
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39147
+#EXTINF:-1,CNN en Español HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39148
+#EXTINF:-1,CNN en Español HQ
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39149
+#EXTINF:-1,CNN Espanol_Chile SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39150
+#EXTINF:-1,CNN Chile_HD op
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39151
+#EXTINF:-1,CNN Internacional LQ
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39152
+#EXTINF:-1,CNN International SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39153
+#EXTINF:-1,CNN International HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39154
+#EXTINF:-1,CNN Internacional HQ
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39155
+#EXTINF:-1,Puerto Rico - Mega TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/51530
+#EXTINF:-1,Puerto Rico - Wapa 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/51533
+#EXTINF:-1,Puerto Rico - Wapa HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/51534
+#EXTINF:-1,Puerto Rico - WIPR HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/51535
+#EXTINF:-1,Puerto Rico-Telemundo Puerto Rico
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/51540
+#EXTINF:-1,CA: AMC HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22572
+#EXTINF:-1,CA: BNN HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22573
+#EXTINF:-1,CA: Bravo TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22574
+#EXTINF:-1,CA: CBC MONTEREAL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22578
+#EXTINF:-1,CA: CBC Toronto
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22579
+#EXTINF:-1,CA: CBC Toronto HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22582
+#EXTINF:-1,CA: CBC Windsor HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22584
+#EXTINF:-1,CA: CBC Winnipeg HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22585
+#EXTINF:-1,CA: CHCH HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22586
+#EXTINF:-1,CA: CP24 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22589
+#EXTINF:-1,CA: CPAC HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22590
+#EXTINF:-1,CA: Discovery Science
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22592
+#EXTINF:-1,CA: Disney JR HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22595
+#EXTINF:-1,CA: Fight Network HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22597
+#EXTINF:-1,CA: FXX
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22601
+#EXTINF:-1,CA: Global FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22602
+#EXTINF:-1,CA: HBO 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22604
+#EXTINF:-1,CA: Lifetime FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22605
+#EXTINF:-1,CA: National Geographic HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22606
+#EXTINF:-1,CA: Peachtree HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22608
+#EXTINF:-1,CA: Slice HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22609
+#EXTINF:-1,CA: Treehouse
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22610
+#EXTINF:-1,CA: TLC HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22611
+#EXTINF:-1,CA: CBC Montreal
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22617
+#EXTINF:-1,CA: RDI
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22621
+#EXTINF:-1,CA: RDS Info
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22623
+#EXTINF:-1,CA: Super Ecran 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22624
+#EXTINF:-1,CA: Super Ecran 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22625
+#EXTINF:-1,CA: Super Ecran 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22626
+#EXTINF:-1,CA: Super Ecran 4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22628
+#EXTINF:-1,CA: Zeste
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22629
+#EXTINF:-1,CA: TMN 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22630
+#EXTINF:-1,CA: VRAK TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22631
+#EXTINF:-1,CA: TV5 Quebec
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/22633
+#EXTINF:-1,VENEZUELA  |  TLT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67452
+#EXTINF:-1,TLT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67453
+#EXTINF:-1,24H | Paw Patrol
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67744
+#EXTINF:-1,24H | Coraje - El Perro Cobarde
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67746
+#EXTINF:-1,24H | Los Picapiedra
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67747
+#EXTINF:-1,24H | The Walking Dead
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67749
+#EXTINF:-1,24H | Pokémon
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67750
+#EXTINF:-1,24H | Bob Esponja
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67751
+#EXTINF:-1,24H | Dinosaurios
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67753
+#EXTINF:-1,24H | Dragon Ball Z
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67754
+#EXTINF:-1,24H | Los 3 Chiflados
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67757
+#EXTINF:-1,24H | Batman
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67758
+#EXTINF:-1,24H | Timon y Pymba
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67762
+#EXTINF:-1,24H | Dragon Ball
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67764
+#EXTINF:-1,24H Kids | Dinosaurios (M)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67767
+#EXTINF:-1,24H Kids | Dragon Ball (M)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67768
+#EXTINF:-1,24H Kids | BOB ESPONJA (M)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67769
+#EXTINF:-1,24H Kids | Dragon Ball Z kai
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67770
+#EXTINF:-1,24H Kids | Hey Arnold
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67771
+#EXTINF:-1,24H Kids | Tom y Jerry
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67772
+#EXTINF:-1,24H Kids | Paw Patrol
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67773
+#EXTINF:-1,24h Kids | Don gato y su Pandilla
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67774
+#EXTINF:-1,24H | El principe del Rap
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67775
+#EXTINF:-1,24H | Mr Bean
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67776
+#EXTINF:-1,24H | Naruto shippuden
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67781
+#EXTINF:-1,24H | La casa de papel
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67782
+#EXTINF:-1,24/7 El Show de Scooby Doo
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67785
+#EXTINF:-1,24/7 Los padrinos mágicos
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67786
+#EXTINF:-1,24/7 El Show de Bugs Bunny
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67788
+#EXTINF:-1,24/7 Ben 10
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67790
+#EXTINF:-1,24/7 El Pájaro Loco y sus Amigos
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67791
+#EXTINF:-1,24/7 Las nuevas aventuras de Winnie the Pooh EN
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67793
+#EXTINF:-1,24/7 El Chavo del Ocho
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67795
+#EXTINF:-1,24/7 Futurama
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67796
+#EXTINF:-1,24/7 The Good Doctor
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67798
+#EXTINF:-1,24H | Naruto
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67801
+#EXTINF:-1,24H | Tom y Jerry
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67802
+#EXTINF:-1,24H | Ben 10
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67803
+#EXTINF:-1,24H | Batman SA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67804
+#EXTINF:-1,24H | La Pantera Rosa
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67805
+#EXTINF:-1,24H | Dragon Ball GT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67806
+#EXTINF:-1,24H | Dragon Ball Z
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67807
+#EXTINF:-1,24H | Dragon Ball
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67808
+#EXTINF:-1,24H | Los PicaPiedra
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67809
+#EXTINF:-1,24H | Gasparin y sus amigos
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67811
+#EXTINF:-1,24H | Gravity Falls
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67812
+#EXTINF:-1,24H | Mr. Bean
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67813
+#EXTINF:-1,24H | The Walking Dead
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67815
+#EXTINF:-1,24H | Iron Man
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67816
+#EXTINF:-1,24H | El Chema
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67817
+#EXTINF:-1,24H | Doraemon
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67819
+#EXTINF:-1,24H | Dragon Ball Z *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67820
+#EXTINF:-1,24H | Los Caballeros del  Zodiaco
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67822
+#EXTINF:-1,24H | Baron Rojo
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67823
+#EXTINF:-1,24H | Dragon Ball
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67824
+#EXTINF:-1,24H | Mi Bella Genio
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67825
+#EXTINF:-1,24H | iCarly
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67826
+#EXTINF:-1,24H | The Big Bang Theory
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67827
+#EXTINF:-1,24H | Dragon Ball Super
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67828
+#EXTINF:-1,24H | Cantinflas
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67829
+#EXTINF:-1,24H | Smallville
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67830
+#EXTINF:-1,24H | Pinky & Cerebro
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67832
+#EXTINF:-1,24H | El Chavo del 8
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67834
+#EXTINF:-1,24H | Hey Arnold
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67835
+#EXTINF:-1,24H | ALF
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67836
+#EXTINF:-1,24H | La Casa de Mickey Mouse
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/67837
+#EXTINF:-1,PERU |  America TV OPC 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69793
+#EXTINF:-1,PERU | America TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69794
+#EXTINF:-1,PERU | America TV FHD P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69795
+#EXTINF:-1,PERU | America TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69796
+#EXTINF:-1,PERU | Antares TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69797
+#EXTINF:-1,PERU | +CAPITAL TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69799
+#EXTINF:-1,Peru | +Cumbia TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69800
+#EXTINF:-1,PERU | ATV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69801
+#EXTINF:-1,PERU | ATV + FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69802
+#EXTINF:-1,PERU | ATV PLUS HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69803
+#EXTINF:-1,Peru | Best Cable Sport
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69805
+#EXTINF:-1,PERU | CANAL N HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69807
+#EXTINF:-1,PERU | CANAL N HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69808
+#EXTINF:-1,PERU | Cultura 24 TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69810
+#EXTINF:-1,PERU | EXITOSA HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69811
+#EXTINF:-1,PERU | EXITOSA TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69812
+#EXTINF:-1,PERU | FUEGO TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69813
+#EXTINF:-1,PERU | GOLPERU HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69815
+#EXTINF:-1,PERU | IPE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69818
+#EXTINF:-1,PERU | JUSTICIA TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69819
+#EXTINF:-1,PERU | LATINA FHD (EXCLUSIVO)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69821
+#EXTINF:-1,PERU | LATINA FHD P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69822
+#EXTINF:-1,PERU | LATINA TV FHD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69823
+#EXTINF:-1,PERU | Latina TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69824
+#EXTINF:-1,PERU | Latina TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69825
+#EXTINF:-1,PERU | MONTERRICO TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69826
+#EXTINF:-1,PERU | PANAMERICANA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69828
+#EXTINF:-1,PERU | PANAMERICANA  (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69829
+#EXTINF:-1,PERU | Peru Magico FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69830
+#EXTINF:-1,PERU | RPP HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69832
+#EXTINF:-1,Peru | SUR PERU
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69833
+#EXTINF:-1,PERU | TOPLATINOHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69834
+#EXTINF:-1,PERU | TV PERU HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69836
+#EXTINF:-1,PERU | TV PERU SD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69837
+#EXTINF:-1,PERU | Willax
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69842
+#EXTINF:-1,PERU | WillaX (R)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69843
+#EXTINF:-1,PERU | WILLAX HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69844
+#EXTINF:-1,PERU | WILLAX HD P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69845
+#EXTINF:-1,PERU | MOVISTAR DEPORTES
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69846
+#EXTINF:-1,PERU | Movistar Deportes FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69847
+#EXTINF:-1,PERU | M. DEPORTES HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69848
+#EXTINF:-1,PERU | Movistar Plus
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69849
+#EXTINF:-1,PERU - LS | Gol Peru FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69850
+#EXTINF:-1,PERU - LS | Gol Peru HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69851
+#EXTINF:-1,PERU - LS | Gol Peru SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69852
+#EXTINF:-1,PERU | Gol Peru FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69853
+#EXTINF:-1,PERU | GOL PERU FHD P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69854
+#EXTINF:-1,PERU | Gol Peru HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69855
+#EXTINF:-1,PERU | Gol Peru SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69856
+#EXTINF:-1,PERU | GOLPERU HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69857
+#EXTINF:-1,PERU |  Directv Sports + Plus (C-1080)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69858
+#EXTINF:-1,PERU |  Directv Sports 2 (C-1080)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69859
+#EXTINF:-1,PERU | Directv Sports Peru (C-HD)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69860
+#EXTINF:-1,PERU | ESPN 2 PERU HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69861
+#EXTINF:-1,Telemundo Internacional HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71233
+#EXTINF:-1,TELEMUNDO New York
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71234
+#EXTINF:-1,Galavision Austin HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71235
+#EXTINF:-1,Galavision Cleveland HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71236
+#EXTINF:-1,Galavision Dallas HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71237
+#EXTINF:-1,Galavision East HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71238
+#EXTINF:-1,Galavision Fresno HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71239
+#EXTINF:-1,Galavision Houston HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71240
+#EXTINF:-1,Galavision Los Angeles HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71241
+#EXTINF:-1,Galavision Las Vegas HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71242
+#EXTINF:-1,Galavision RALEIGH HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71243
+#EXTINF:-1,Galavision New York HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71244
+#EXTINF:-1,Galavision Philadelphia HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71245
+#EXTINF:-1,Galavision Phoenix HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71246
+#EXTINF:-1,Galavision Sacramento HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71247
+#EXTINF:-1,Galavision SALT LAKE HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71248
+#EXTINF:-1,Galavision San Antonio HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71249
+#EXTINF:-1,Galavision West HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71251
+#EXTINF:-1,GALAVISION ATLANTA HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71253
+#EXTINF:-1,Galavision Alburquerque Santa Fe HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71254
+#EXTINF:-1,Galavision MIAMI HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71255
+#EXTINF:-1,UNIMAS EAST HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71258
+#EXTINF:-1,Unimas Houston  HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71259
+#EXTINF:-1,UNIMAS NEW YORK HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71261
+#EXTINF:-1,UNIMAS SACRAMENTO HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71262
+#EXTINF:-1,UNIMAS San Antonio HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71263
+#EXTINF:-1,UNIMAS TUCSON  HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71264
+#EXTINF:-1,UNIMAS LOS ANGELES  HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71265
+#EXTINF:-1,UNIVISION MIAMI HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71267
+#EXTINF:-1,UNIVISION CHICAGO HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71269
+#EXTINF:-1,UNIVISION HOUSTON HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71270
+#EXTINF:-1,UNIVISION NEW YORK HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71271
+#EXTINF:-1,UNIVISION SAN ANTONIO HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71273
+#EXTINF:-1,UNIVISION EAST
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71274
+#EXTINF:-1,UNIVISION ATLANTA HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71275
+#EXTINF:-1,UNIVISION DALLAS TX HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71276
+#EXTINF:-1,UNIVISION TELENOVELAS HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71277
+#EXTINF:-1,UNIVISION TELENOVELAS HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71278
+#EXTINF:-1,UNIVISION AUSTIN HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71279
+#EXTINF:-1,UNIVISION PHILADELPHIA HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71280
+#EXTINF:-1,UNIVISION PHOENIX HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71281
+#EXTINF:-1,UNIVISION  SALT LAKE HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71283
+#EXTINF:-1,UNIVISION WEST
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71286
+#EXTINF:-1,TELEMUNDO BOSTON
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71287
+#EXTINF:-1,Telemundo Miami
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71289
+#EXTINF:-1,Telemundo 26 KFDY Lincoln
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71290
+#EXTINF:-1,Telemundo WEST
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71292
+#EXTINF:-1,Telemundo 36 KXTX Dallas
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71293
+#EXTINF:-1,Telemundo 29 WSNS Chicago
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71294
+#EXTINF:-1,Telemundo Las Vegas
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71298
+#EXTINF:-1,Telemundo Washington DC
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71299
+#EXTINF:-1,Telemundo 30 WSCV Fort Lauderdale
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71300
+#EXTINF:-1,Telemundo 16 KHRR Tucson
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71301
+#EXTINF:-1,Telemundo 15 KVDA San Antonio
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71302
+#EXTINF:-1,Telemundo 22 KTMD Galveston
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71303
+#EXTINF:-1,Telemundo 14 KTLM Rio Grande City
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71304
+#EXTINF:-1,Telemundo 25 KVEA Corona
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71305
+#EXTINF:-1,Telemundo 26 KTDO Las Cruces
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71307
+#EXTINF:-1,Telemundo 29 KTUZ Shawnee
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71309
+#EXTINF:-1,Telemundo 11 KNSO Merced
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71311
+#EXTINF:-1,Telemundo 29 KTAZ Phoenix
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71312
+#EXTINF:-1,Telemundo 19 KFBI Medford
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71314
+#EXTINF:-1,Telemundo New Orleans HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71315
+#EXTINF:-1,Telemundo 24 KXTQ Lubbock
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71316
+#EXTINF:-1,Telemundo 3 KCSO Sacramento
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71317
+#EXTINF:-1,Telemundo 17 KUTU Tulsa
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71318
+#EXTINF:-1,Telemundo 34 WZDC Washington DC
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71319
+#EXTINF:-1,Telemundo 31 WRDM Hartford
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71320
+#EXTINF:-1,Telemundo 31 WTMO Orlando
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71321
+#EXTINF:-1,Telemundo 23 WDMR Springfield
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71322
+#EXTINF:-1,Telemundo 34 WZTD Richmond VA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71323
+#EXTINF:-1,Telemundo 30 WWDT Naples
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71324
+#EXTINF:-1,Telemundo 27 KOHA Omaha
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71325
+#EXTINF:-1,Telemundo 30 WRMD Tampa
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/71326
+#EXTINF:-1,C9N SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40383
+#EXTINF:-1,Farra Play SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40384
+#EXTINF:-1,Gen Tv SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40385
+#EXTINF:-1,La Tele SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40386
+#EXTINF:-1,Noticias Py
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40387
+#EXTINF:-1,Rpc SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40389
+#EXTINF:-1,PARAG:SNT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40391
+#EXTINF:-1,PARAG:LA TELE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40392
+#EXTINF:-1,PARAGUAY: FARRA PLAY
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40393
+#EXTINF:-1,PARAGUAY:GEN TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40394
+#EXTINF:-1,PARAGUAY:VEN:TVES
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40395
+#EXTINF:-1,PARAGUAY:LA TELE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40396
+#EXTINF:-1,PARAGUAY:NOTICIAS PY
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40397
+#EXTINF:-1,PARAGUAY:PARAGUAY TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40398
+#EXTINF:-1,PARAGUAY:RPC
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40400
+#EXTINF:-1,PARAGUAY:SNT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40401
+#EXTINF:-1,PARAGUAY:SUR TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40402
+#EXTINF:-1,PARAGUAY:TELEFUTURO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40403
+#EXTINF:-1,PARAGUAY:UNICANAL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40404
+#EXTINF:-1,PARAGUAY:TIGO PARAGUAY2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40406
+#EXTINF:-1,Paraguay - Unicanal HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/45397
+#EXTINF:-1,Paraguay - Telefuturo
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/45398
+#EXTINF:-1,Paraguay - Tigo Sports 1 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/45399
+#EXTINF:-1,Paraguay - Gen TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/45401
+#EXTINF:-1,Paraguay - La Tele
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/45402
+#EXTINF:-1,Paraguay - Paraguay TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/45403
+#EXTINF:-1,Paraguay | Tigo Sports 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/66502
+#EXTINF:-1,Paraguay | Tigo Sports 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/66504
+#EXTINF:-1,Paraguay | TIGO SPORTS +
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/66505
+#EXTINF:-1,GT | CANAL 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/89549
+#EXTINF:-1,GT | CANAL 7
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/89550
+#EXTINF:-1,GT | CANAL 11
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/89551
+#EXTINF:-1,GT | CANAL 13
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/89552
+#EXTINF:-1,GT | TN23
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/89553
+#EXTINF:-1,GT | GUATEVISION
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/89554
+#EXTINF:-1,GT | CANAL ANTIGUA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/89555
+#EXTINF:-1,GT | AZTECA GUATE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/89556
+#EXTINF:-1,RD | COLOR VISION 9 OP2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/89557
+#EXTINF:-1,GT | CANAL 13 COTOVISION ESQUIPULAS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/89558
+#EXTINF:-1,GT | CANAL 18 MARANATHA SAN MARCOS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/89559
+#EXTINF:-1,GUA | CLARO SPORTS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/89560
+#EXTINF:-1,VE:Venevision
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/92585
+#EXTINF:-1,Televen
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/99131
+#EXTINF:-1,Carolina TV 2 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/118512
+#EXTINF:-1,PERU | LIGA 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/162700
+#EXTINF:-1,PERU | LIGA 1 MAX
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/162701
+#EXTINF:-1,PERU | LIGA 1 MAX OP2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165709
+#EXTINF:-1,MLB Network US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165259
+#EXTINF:-1,MLB Network
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165682
+#EXTINF:-1,USA*:NBC
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168705
+#EXTINF:-1,USA*:NBC (KNBC-LOS ANGELES
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168706
+#EXTINF:-1,USA*:NBC (KNTVDT Â€“ SAN FRANCISCO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168707
+#EXTINF:-1,USA*:NBC (KSLDT Â€“ SALT LAKE CITY
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168708
+#EXTINF:-1,USA*:NBC (KUSA Â€“ DENVER
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168709
+#EXTINF:-1,USA*:NBC (KXASDT Â€“ DALLAS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168710
+#EXTINF:-1,USA*:NBC (WBAL- BALTIMORE MD)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168711
+#EXTINF:-1,USA*:NBC (WBRE-WILKES BARRE-SCRANTON-HAZLETON)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168712
+#EXTINF:-1,USA*:NBC (WCNC- CHARLOTTE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168713
+#EXTINF:-1,USA*:NBC (WDSU- NEW ORLEANS LA)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168714
+#EXTINF:-1,USA*:NBC (WISDT- COLUMBIA SC)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168715
+#EXTINF:-1,USA*:NBC (WMAQDT - CHICAGO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168716
+#EXTINF:-1,USA*:NBC (WOWT- OMAHA NE)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168717
+#EXTINF:-1,USA*:NBC (WRCDT Â€“ WASHINGTON
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168718
+#EXTINF:-1,USA*:NBC (WTVJDT - MIAMI/FORT LAUDERDALE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168719
+#EXTINF:-1,USA*:NBC 12
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168720
+#EXTINF:-1,USA*:NBC 12 NEWS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168721
+#EXTINF:-1,USA*:NBC 15
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168722
+#EXTINF:-1,USA*:NBC C
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168723
+#EXTINF:-1,USA*:NBC CHEYENNE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168724
+#EXTINF:-1,USA*:NBC HOUSTON TX
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168725
+#EXTINF:-1,USA*:NBC KHNL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168726
+#EXTINF:-1,USA*:NBC LAS VEGAS NV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168727
+#EXTINF:-1,USA*:NBC SACRAMENTO-STOCKTON-MODESTO CA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168728
+#EXTINF:-1,USA*:NBC SPORTS BAY AREA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168729
+#EXTINF:-1,USA*:NBC SPORTS BAY AREA PLUS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168730
+#EXTINF:-1,USA*:NBC SPORTS BOSTON
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168731
+#EXTINF:-1,USA*:NBC SPORTS CALIFORNIA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168732
+#EXTINF:-1,USA*:NBC SPORTS CHICAGO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168733
+#EXTINF:-1,USA*:NBC SPORTS CHICAGO PLUS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168734
+#EXTINF:-1,USA*:NBC SPORTS PHILLY
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168735
+#EXTINF:-1,USA*:NBC SPORTS PHILLY PLUS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168736
+#EXTINF:-1,USA*:NBC SPORTS WASHINGTON
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168737
+#EXTINF:-1,USA*:NBC SPORTS WASHINGTON PLUS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168738
+#EXTINF:-1,USA*:NBC UNIVERSO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168739
+#EXTINF:-1,USA*:NBC UNIVERSO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168740
+#EXTINF:-1,USA*:NBC WGRZ-BUFFALO NY
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168741
+#EXTINF:-1,USA*:NBC WSFA MONTGOMERY SELMA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/168742
+#EXTINF:-1,La Chilena TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169286
+#EXTINF:-1,Spectrum Channel * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169287
+#EXTINF:-1,EnerGeek * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169288
+#EXTINF:-1,Modoradio TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169289
+#EXTINF:-1,Kanade * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169290
+#EXTINF:-1,Ruidos TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169291
+#EXTINF:-1,Retro Plus TV Señal 2 * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169292
+#EXTINF:-1,VClassicTV Tropical * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169293
+#EXTINF:-1,Latinos Radio * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169294
+#EXTINF:-1,PlanetaTV Music * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169295
+#EXTINF:-1,PlanetaTV Movies * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169296
+#EXTINF:-1,Mundo de la Musica TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169297
+#EXTINF:-1,Karavana TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169298
+#EXTINF:-1,TV y TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169299
+#EXTINF:-1,Radio Stefania * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169300
+#EXTINF:-1,Radio Continente FM * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169301
+#EXTINF:-1,Milodon TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169302
+#EXTINF:-1,Canal Noticias Colchagua * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169303
+#EXTINF:-1,Red Circle * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169304
+#EXTINF:-1,Canal Pais * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169305
+#EXTINF:-1,Alerce TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169306
+#EXTINF:-1,House music TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169307
+#EXTINF:-1,La Voz De Los Que Sobran TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169308
+#EXTINF:-1,La Melinkana TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169309
+#EXTINF:-1,Sureña TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169310
+#EXTINF:-1,En la Noticia * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169311
+#EXTINF:-1,Radio Acogida * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169312
+#EXTINF:-1,Siete Vision San Fernando * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169313
+#EXTINF:-1,Veo TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169314
+#EXTINF:-1,ATV Valdivia * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169315
+#EXTINF:-1,Canal 5 Los Vilos * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169316
+#EXTINF:-1,Cauquenesnet TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169317
+#EXTINF:-1,Tu Canal Colina * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169318
+#EXTINF:-1,Televisión Minera del Norte * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169319
+#EXTINF:-1,Canal Alta Frontera * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169320
+#EXTINF:-1,Señal 21 * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169321
+#EXTINF:-1,Flow TV+ HD * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169322
+#EXTINF:-1,Pinto TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169323
+#EXTINF:-1,ClickRadio.cl * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169324
+#EXTINF:-1,TV PRIME Music * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169325
+#EXTINF:-1,Los Sauces TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169326
+#EXTINF:-1,Unetev * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169327
+#EXTINF:-1,Radio Edelweiss * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169328
+#EXTINF:-1,Eternal Metal * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169329
+#EXTINF:-1,eplusplay.cl * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169330
+#EXTINF:-1,Santa Cruz FM * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169331
+#EXTINF:-1,Radio Area Bpm * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169332
+#EXTINF:-1,Telecauquenes * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169333
+#EXTINF:-1,Moni TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169334
+#EXTINF:-1,Lanco TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169335
+#EXTINF:-1,TVM * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169336
+#EXTINF:-1,Suyai TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169337
+#EXTINF:-1,CDR * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169338
+#EXTINF:-1,Autonoma Radio * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169339
+#EXTINF:-1,Freestyledjs * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169340
+#EXTINF:-1,Radio Q * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169341
+#EXTINF:-1,Dance FM * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169342
+#EXTINF:-1,Solobailalo TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169343
+#EXTINF:-1,CRTV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169344
+#EXTINF:-1,Opinionsur TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169345
+#EXTINF:-1,HiperTV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169346
+#EXTINF:-1,Onda Radio TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169347
+#EXTINF:-1,Caldera Vision TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169348
+#EXTINF:-1,AMC TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169349
+#EXTINF:-1,Super TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169350
+#EXTINF:-1,Infinita TV Premium | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169351
+#EXTINF:-1,Frecuencia Musical TV | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169352
+#EXTINF:-1,Retro Plus TV Señal 3 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169353
+#EXTINF:-1,EvaStream | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169354
+#EXTINF:-1,Eva Retro | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169355
+#EXTINF:-1,Viwix TV Terror | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169356
+#EXTINF:-1,Viwix TV Series | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169357
+#EXTINF:-1,Viwix TV Accion | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169358
+#EXTINF:-1,Viwix TV Estrenos | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169359
+#EXTINF:-1,PlanetaTV Kids | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169360
+#EXTINF:-1,Retro Play TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169361
+#EXTINF:-1,NTV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169362
+#EXTINF:-1,Pintana TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169363
+#EXTINF:-1,Pichilemu TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169364
+#EXTINF:-1,El 3 de Conce | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169365
+#EXTINF:-1,La Granja TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169366
+#EXTINF:-1,Exprezion TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169367
+#EXTINF:-1,G Vision | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169368
+#EXTINF:-1,Wapp | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169369
+#EXTINF:-1,La Red | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169370
+#EXTINF:-1,TVN | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169371
+#EXTINF:-1,TVN - 24h | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169372
+#EXTINF:-1,TVN - Reuters | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169373
+#EXTINF:-1,Mega | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169374
+#EXTINF:-1,CHV Contigo | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169375
+#EXTINF:-1,CHV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169376
+#EXTINF:-1,Canal 13 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169377
+#EXTINF:-1,U Chile TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169378
+#EXTINF:-1,STGO.TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169379
+#EXTINF:-1,Campus TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169380
+#EXTINF:-1,TVU | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169381
+#EXTINF:-1,Universidad Autonoma TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169382
+#EXTINF:-1,TV UCT | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169383
+#EXTINF:-1,Ufrovision | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169384
+#EXTINF:-1,U Los Lagos | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169385
+#EXTINF:-1,UMAG TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169386
+#EXTINF:-1,UMAG TV 2 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169387
+#EXTINF:-1,UesTV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169388
+#EXTINF:-1,Cultura Online | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169389
+#EXTINF:-1,CEAC TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169390
+#EXTINF:-1,Puranoticia | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169391
+#EXTINF:-1,Meganoticias | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169392
+#EXTINF:-1,Señal Mediabanco | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169393
+#EXTINF:-1,Teletón TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169394
+#EXTINF:-1,Solo Stand Up | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169395
+#EXTINF:-1,Caracola TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169396
+#EXTINF:-1,EGM Channel | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169397
+#EXTINF:-1,Ziza TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169398
+#EXTINF:-1,Radio Lado Oscuro TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169399
+#EXTINF:-1,Raices Arabes TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169400
+#EXTINF:-1,TV Pop | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169401
+#EXTINF:-1,Tevex | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169402
+#EXTINF:-1,Chile Channel | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169403
+#EXTINF:-1,Campo Abierto TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169404
+#EXTINF:-1,Canal Turismo Travel TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169405
+#EXTINF:-1,Arica TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169406
+#EXTINF:-1,Cappissima Multimedial TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169407
+#EXTINF:-1,Puerta Norte | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169408
+#EXTINF:-1,Iquique TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169409
+#EXTINF:-1,RTC Television | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169410
+#EXTINF:-1,Antofagasta TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169411
+#EXTINF:-1,LRP Television | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169412
+#EXTINF:-1,TV Norte Digital | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169413
+#EXTINF:-1,AM Canal | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169414
+#EXTINF:-1,Taltal TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169415
+#EXTINF:-1,Holvoet TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169416
+#EXTINF:-1,Atacama Noticias TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169417
+#EXTINF:-1,Atacama TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169418
+#EXTINF:-1,Madero TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169419
+#EXTINF:-1,Huasco TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169420
+#EXTINF:-1,Alternativa TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169421
+#EXTINF:-1,Enfoque Digital TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169422
+#EXTINF:-1,Origen TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169423
+#EXTINF:-1,La Popular TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169424
+#EXTINF:-1,Canal 1440 Coquimbo | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169425
+#EXTINF:-1,ThemaTV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169426
+#EXTINF:-1,América TV Chile | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169427
+#EXTINF:-1,Nortevision | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169428
+#EXTINF:-1,TV Elqui | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169429
+#EXTINF:-1,VTV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169430
+#EXTINF:-1,Canal LOF Aconcagua | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169431
+#EXTINF:-1,Canal 74 TeVe | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169432
+#EXTINF:-1,TV Costa | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169433
+#EXTINF:-1,Canal Local | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169434
+#EXTINF:-1,TV Quinta Region | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169435
+#EXTINF:-1,Vida Nueva TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169436
+#EXTINF:-1,Girovisual TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169437
+#EXTINF:-1,Frecuencia 7 Aconcagua | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169438
+#EXTINF:-1,Estudio TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169439
+#EXTINF:-1,Canal 2 de San Antonio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169440
+#EXTINF:-1,Plaza TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169441
+#EXTINF:-1,TVR | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169442
+#EXTINF:-1,Tendencias Prime | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169443
+#EXTINF:-1,Vision Plus TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169444
+#EXTINF:-1,Autonoma TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169445
+#EXTINF:-1,38TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169446
+#EXTINF:-1,Buin Somos Todos | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169447
+#EXTINF:-1,Canal 57 Melipilla | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169448
+#EXTINF:-1,Telecanal Santa Cruz | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169449
+#EXTINF:-1,El Tipografo | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169450
+#EXTINF:-1,TVO San Vicente | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169451
+#EXTINF:-1,Sextavision | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169452
+#EXTINF:-1,Ekiz TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169453
+#EXTINF:-1,TVR Canal 11 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169454
+#EXTINF:-1,Telecanal Talca | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169455
+#EXTINF:-1,TV 5 Linares | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169456
+#EXTINF:-1,Contivision | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169457
+#EXTINF:-1,Molina TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169458
+#EXTINF:-1,UTV San Clemente | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169459
+#EXTINF:-1,Nativa TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169460
+#EXTINF:-1,Tele2 Web | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169461
+#EXTINF:-1,Maule Vision | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169462
+#EXTINF:-1,Nueva Region TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169463
+#EXTINF:-1,Canal 21 Chillán | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169464
+#EXTINF:-1,Región Televisión Ñuble | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169465
+#EXTINF:-1,Canal SCÑ - San Carlos Ñuble | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169466
+#EXTINF:-1,Ñublevision | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169467
+#EXTINF:-1,YungayOnline | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169468
+#EXTINF:-1,ClickTv | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169469
+#EXTINF:-1,VP Televisión | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169470
+#EXTINF:-1,Energia TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169471
+#EXTINF:-1,Concepcion TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169472
+#EXTINF:-1,Canal 9 Bío Bí­o TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169473
+#EXTINF:-1,TV8 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169474
+#EXTINF:-1,Pacifico Television | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169475
+#EXTINF:-1,Canal TV4 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169476
+#EXTINF:-1,Juntos TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169477
+#EXTINF:-1,Club TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169478
+#EXTINF:-1,Teleangol Radio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169479
+#EXTINF:-1,RDO TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169480
+#EXTINF:-1,LTV canal | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169481
+#EXTINF:-1,Pucon TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169482
+#EXTINF:-1,Temuco TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169483
+#EXTINF:-1,T-Vinet | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169484
+#EXTINF:-1,Canal Latino 54 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169485
+#EXTINF:-1,Decima TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169486
+#EXTINF:-1,Canal 2 Quellon | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169487
+#EXTINF:-1,Vision TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169488
+#EXTINF:-1,Canal 5 Puerto Montt | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169489
+#EXTINF:-1,Canal Chilote | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169490
+#EXTINF:-1,Hito Cero TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169491
+#EXTINF:-1,Chiloe Red 25 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169492
+#EXTINF:-1,Santa Maria TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169493
+#EXTINF:-1,Canal 11 TV Aysen | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169494
+#EXTINF:-1,SurTV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169495
+#EXTINF:-1,Aysen TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169496
+#EXTINF:-1,Soberania Radio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169497
+#EXTINF:-1,ITV Patagonia | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169498
+#EXTINF:-1,EvaVisión | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169499
+#EXTINF:-1,Canal Sur Patagonia | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169500
+#EXTINF:-1,PinguinoTV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169501
+#EXTINF:-1,TV Turf Movil | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169502
+#EXTINF:-1,Valparaiso Sporting | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169503
+#EXTINF:-1,Bajo Cero TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169504
+#EXTINF:-1,Viwix TV Music | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169505
+#EXTINF:-1,El Galpon 80 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169506
+#EXTINF:-1,Sensacion Costa | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169507
+#EXTINF:-1,Radioteca TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169508
+#EXTINF:-1,Re7 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169509
+#EXTINF:-1,Recuerdos Retro Radio TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169510
+#EXTINF:-1,La Sabrosura TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169511
+#EXTINF:-1,DJ Loncho TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169512
+#EXTINF:-1,Portal FoxMix | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169513
+#EXTINF:-1,TV vconline.cl | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169514
+#EXTINF:-1,Alegria TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169515
+#EXTINF:-1,FM Hit | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169516
+#EXTINF:-1,Top New Radio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169517
+#EXTINF:-1,Radio Estacion Arica | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169518
+#EXTINF:-1,Subela Radio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169519
+#EXTINF:-1,Radio Ritmo FM | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169520
+#EXTINF:-1,Nueva Mia 89.3 Fm | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169521
+#EXTINF:-1,Macarena FM | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169522
+#EXTINF:-1,Radio Magallanes | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169523
+#EXTINF:-1,Ritmo TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169524
+#EXTINF:-1,Emocion TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169525
+#EXTINF:-1,Zona Play Radio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169526
+#EXTINF:-1,Tributo Valentina | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169527
+#EXTINF:-1,Radio La Serena | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169528
+#EXTINF:-1,Patagonia Radio TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169529
+#EXTINF:-1,FM Mix | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169530
+#EXTINF:-1,CCP Radio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169531
+#EXTINF:-1,Red Fueguina Radio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169532
+#EXTINF:-1,DBox Radio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169533
+#EXTINF:-1,Radio Zeta | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169534
+#EXTINF:-1,Radio Via Libre | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169535
+#EXTINF:-1,Radio Universal | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169536
+#EXTINF:-1,Radio Touch | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169537
+#EXTINF:-1,Sabor TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169538
+#EXTINF:-1,Radio Rancagua | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169539
+#EXTINF:-1,Radio Presidente Ibañez | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169540
+#EXTINF:-1,Radio Portales | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169541
+#EXTINF:-1,Radio Polar | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169542
+#EXTINF:-1,Radio Mas | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169543
+#EXTINF:-1,Radio Las Nieves | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169544
+#EXTINF:-1,Radio Hoy | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169545
+#EXTINF:-1,Radio Genial TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169546
+#EXTINF:-1,Radio Fiessta | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169547
+#EXTINF:-1,Futura TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169548
+#EXTINF:-1,Radio Favorita | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169549
+#EXTINF:-1,Radio Ñuble | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169550
+#EXTINF:-1,Radio Fantasia TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169551
+#EXTINF:-1,Cosmos TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169552
+#EXTINF:-1,Radio Corporacion | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169553
+#EXTINF:-1,Radio Chiloe | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169554
+#EXTINF:-1,Radio Camila TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169555
+#EXTINF:-1,Preludio TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169556
+#EXTINF:-1,Orocoipo | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169557
+#EXTINF:-1,Mi Radio TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169558
+#EXTINF:-1,Interradio TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169559
+#EXTINF:-1,Interactiva FM | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169560
+#EXTINF:-1,FM Pulso | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169561
+#EXTINF:-1,El Sembrador | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169562
+#EXTINF:-1,El Conquistador TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169563
+#EXTINF:-1,ChocolateFM | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169564
+#EXTINF:-1,Radio Ancoa TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169565
+#EXTINF:-1,AE Radio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169566
+#EXTINF:-1,Radioactiva TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169567
+#EXTINF:-1,La Clave | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169568
+#EXTINF:-1,Pauta TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169569
+#EXTINF:-1,Radio Tiempo | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169570
+#EXTINF:-1,Radio Infinita | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169571
+#EXTINF:-1,Radio Romantica | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169572
+#EXTINF:-1,Radio Agricultura | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169573
+#EXTINF:-1,Radio Duna | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169574
+#EXTINF:-1,Pudahuel FM | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169575
+#EXTINF:-1,Cooperativa | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169576
+#EXTINF:-1,Bio Bio TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169577
+#EXTINF:-1,ADN | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169578
+#EXTINF:-1,Vida TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169579
+#EXTINF:-1,TNE | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169580
+#EXTINF:-1,Televida HD | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169581
+#EXTINF:-1,Restaurando Vidas TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169582
+#EXTINF:-1,Radio Vida Curico | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169583
+#EXTINF:-1,NCTV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169584
+#EXTINF:-1,Gracia TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169585
+#EXTINF:-1,Escuchame Radio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169586
+#EXTINF:-1,Canal ISB | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169587
+#EXTINF:-1,Canal 33 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169588
+#EXTINF:-1,Casa Sobre La Roca TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169589
+#EXTINF:-1,MC Radio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169590
+#EXTINF:-1,Telezion | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169591
+#EXTINF:-1,Sonido Nazaret | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169592
+#EXTINF:-1,Metanoia TV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169593
+#EXTINF:-1,TV Emanuel | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169594
+#EXTINF:-1,IPNA Medio | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169595
+#EXTINF:-1,Enlace BPB | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169596
+#EXTINF:-1,Unidad Evangelica TV * | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169598
+#EXTINF:-1,MCRT Cristiana | CA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169599
+#EXTINF:-1,JN19 | PE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169600
+#EXTINF:-1,Alcance TV | MX
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169601
+#EXTINF:-1,Aleluya TV | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169602
+#EXTINF:-1,Alerta TV | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169603
+#EXTINF:-1,Asomavision | EC
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169604
+#EXTINF:-1,Avivame TV | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169605
+#EXTINF:-1,Canal 6 - Viento Recio Internacional | AR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169606
+#EXTINF:-1,Canal Dios Te Ve | HN
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169607
+#EXTINF:-1,CCI Channel | HN
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169608
+#EXTINF:-1,Cielo TV Cristiana | DO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169609
+#EXTINF:-1,Conectados Con Dios TV | GT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169610
+#EXTINF:-1,Cristiana TV | ES
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169611
+#EXTINF:-1,Cristo Libera | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169612
+#EXTINF:-1,Cristovision | CO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169613
+#EXTINF:-1,Dios Te Ve Kids | HN
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169614
+#EXTINF:-1,Ebenezer TV | HN
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169615
+#EXTINF:-1,El Viviente TV | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169616
+#EXTINF:-1,ESNE | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169617
+#EXTINF:-1,EWTN | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169618
+#EXTINF:-1,Extrema TV | CR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169619
+#EXTINF:-1,Faro de Santidad TV | PR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169620
+#EXTINF:-1,Gospel Movies Television | BR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169621
+#EXTINF:-1,JBN Internacional | HN
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169622
+#EXTINF:-1,Jehova TV | HN
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169623
+#EXTINF:-1,Jesus TV | DO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169624
+#EXTINF:-1,La Fe Mueve Montanas | DO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169625
+#EXTINF:-1,Luz Naciente TV | CR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169626
+#EXTINF:-1,Mana del Cielo TV | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169627
+#EXTINF:-1,Manantial de Adoración TV | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169628
+#EXTINF:-1,Master Video Pro | PR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169629
+#EXTINF:-1,MCN Television | GT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169630
+#EXTINF:-1,Mision TV | HN
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169631
+#EXTINF:-1,MovieFE | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169632
+#EXTINF:-1,MVT TV | CO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169633
+#EXTINF:-1,Nacion TV Internacional | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169634
+#EXTINF:-1,Natanael TV | PA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169635
+#EXTINF:-1,Nuevo Tiempo | BR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169636
+#EXTINF:-1,Oasis TV | CO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169637
+#EXTINF:-1,Orbe 21 | AR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169638
+#EXTINF:-1,Presencia Television | GT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169639
+#EXTINF:-1,Radio TV Cristo Viene | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169640
+#EXTINF:-1,Rede Vida | BR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169641
+#EXTINF:-1,Renuevo TV | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169642
+#EXTINF:-1,Restauracion TV Houston | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169643
+#EXTINF:-1,Rhema TV | GT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169644
+#EXTINF:-1,RVida TV | DO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169645
+#EXTINF:-1,Salvacion TV | PR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169646
+#EXTINF:-1,Sublime Gracia TV | AR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169647
+#EXTINF:-1,TBN España | ES
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169648
+#EXTINF:-1,Tele Familia | CO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169649
+#EXTINF:-1,Television Celestial | AR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169650
+#EXTINF:-1,TV Aparecida | BR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169651
+#EXTINF:-1,TV CRET | SV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169652
+#EXTINF:-1,TV Evangelizar | BR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169653
+#EXTINF:-1,TV Gracia | CO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169654
+#EXTINF:-1,TV Rede Gospel | BR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169655
+#EXTINF:-1,TV Unidos | SV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169656
+#EXTINF:-1,TV Universal | BR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169657
+#EXTINF:-1,Urbancris TV | DO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169658
+#EXTINF:-1,Urbancrist2 Worship | DO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169659
+#EXTINF:-1,Victoria TV Bakersfield | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169660
+#EXTINF:-1,Vida Television | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169661
+#EXTINF:-1,Viva Cristo TV | US
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169662
+#EXTINF:-1,XTO TV | BO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169663
+#EXTINF:-1,Nubeh TV * | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169665
+#EXTINF:-1,Oxigeno Network * | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169666
+#EXTINF:-1,Panavision * | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169667
+#EXTINF:-1,Canal Once Del Zulia | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169668
+#EXTINF:-1,Promar TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169669
+#EXTINF:-1,Reforma TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169670
+#EXTINF:-1,Telearagua | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169671
+#EXTINF:-1,Televen | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169672
+#EXTINF:-1,TLT | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169673
+#EXTINF:-1,Telesur | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169674
+#EXTINF:-1,Telesur English | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169675
+#EXTINF:-1,ShowVen TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169676
+#EXTINF:-1,TVS Maracay | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169677
+#EXTINF:-1,Canal i | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169678
+#EXTINF:-1,Venevision | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169679
+#EXTINF:-1,Urban TV | ES
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169680
+#EXTINF:-1,Italianissimo | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169681
+#EXTINF:-1,Anzoategui TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169682
+#EXTINF:-1,TVV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169683
+#EXTINF:-1,Chivacoa TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169684
+#EXTINF:-1,eSports Max TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169685
+#EXTINF:-1,Fiesta Max TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169686
+#EXTINF:-1,Humor Max Channel | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169687
+#EXTINF:-1,Cantina TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169688
+#EXTINF:-1,EXC TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169689
+#EXTINF:-1,Miranda TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169690
+#EXTINF:-1,PLTV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169691
+#EXTINF:-1,TRV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169692
+#EXTINF:-1,Telesol | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169693
+#EXTINF:-1,TV FANB | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169694
+#EXTINF:-1,Vale TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169695
+#EXTINF:-1,MDA TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169696
+#EXTINF:-1,Globovision | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169697
+#EXTINF:-1,TRT | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169698
+#EXTINF:-1,Oasis TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169699
+#EXTINF:-1,BIT Radio | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169700
+#EXTINF:-1,Torococo TV | VE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169701
+#EXTINF:-1,24/7 101 Dalmatas
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170855
+#EXTINF:-1,24/7 Academia de Titanes
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170856
+#EXTINF:-1,24/7 Aladdin
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170857
+#EXTINF:-1,24/7 Amigos del Arbol Feliz
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170858
+#EXTINF:-1,24/7 Animaniacs
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170859
+#EXTINF:-1,24/7 | Aunque usted no lo crea
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170860
+#EXTINF:-1,24/7 batman Las Nuevas Aventuras
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170861
+#EXTINF:-1,24/7 Batman del Futuro
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170862
+#EXTINF:-1,24/7 Batman the Brave
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170863
+#EXTINF:-1,24/7 Beast Machines
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170864
+#EXTINF:-1,24/7 | Ben 10
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170865
+#EXTINF:-1,24/7 | Best Wars
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170866
+#EXTINF:-1,24/7 | Betty Atomica
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170867
+#EXTINF:-1,24/7 | Birdman
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170868
+#EXTINF:-1,24/7 | Bugs Bunny - looney Tunes
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170869
+#EXTINF:-1,24/7 El Autobus Magico
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170870
+#EXTINF:-1,24/7 Kid Vs Kat
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170871
+#EXTINF:-1,24/7 La Bruja Tonta
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170872
+#EXTINF:-1,24/7 La Familia Addams
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170873
+#EXTINF:-1,24/7 La Familia Pround
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170874
+#EXTINF:-1,24/7 La Hormiga Atómica
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170875
+#EXTINF:-1,24/7 La Hormiga y el Oso Hormiguero
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170876
+#EXTINF:-1,24/7 La Isla Del Tesoro
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170877
+#EXTINF:-1,24/7 La leyenda del viento del norte
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170878
+#EXTINF:-1,24/7 La Leyenda de Tarzán
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170879
+#EXTINF:-1,24/7 La mascara
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170880
+#EXTINF:-1,24/7 La Pantera Rosa
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170881
+#EXTINF:-1,24/7 Las aventuras de Silvestre y Piolín
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170882
+#EXTINF:-1,24/7 La Sirenita
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170883
+#EXTINF:-1,24/7 La Tierra Antes Del Tiempo
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170884
+#EXTINF:-1,24/7 La vaca y el pollito
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170885
+#EXTINF:-1,24H | Canal PPV 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170886
+#EXTINF:-1,24H | Canal PPV 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170887
+#EXTINF:-1,24H | Canal PPV 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170888
+#EXTINF:-1,24H | Canal PPV 4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170889
+#EXTINF:-1,24H | Canal PPV 5
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170890
+#EXTINF:-1,24H | Canal PPV 6
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170891
+#EXTINF:-1,24H | Canal PPV 7
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170892
+#EXTINF:-1,24H | Canal PPV 8
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170893
+#EXTINF:-1,24H | Canal PPV 9
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170894
+#EXTINF:-1,24H | Canal PPV 10
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170895
+#EXTINF:-1,24H | Canal PPV 11
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170896
+#EXTINF:-1,24H | Canal PPV 12
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170897
+#EXTINF:-1,24H | Canal PPV 13
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170898
+#EXTINF:-1,24/7 Batman
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170899
+#EXTINF:-1,24/7 Cursos
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170900
+#EXTINF:-1,24/7 familia warren
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170901
+#EXTINF:-1,24/7 Saga Spiderman
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170902
+#EXTINF:-1,24/7 Terror Viernes 13
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170903
+#EXTINF:-1,24/7 Dross
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170904
+#EXTINF:-1,24/7 Luisito minidocumental
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170905
+#EXTINF:-1,24/7 Oxlacx Tops
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170906
+#EXTINF:-1,24H | Canal de ejercicios y Rutinas
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170907
+#EXTINF:-1,24H | Canal Sonic X
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170908
+#EXTINF:-1,24/7 EcoModa
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170909
+#EXTINF:-1,24/7 El lagarto Juancho
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170910
+#EXTINF:-1,24H | I am Groot
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170911
+#EXTINF:-1,24/7 El Chavo del 8 animado
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170912
+#EXTINF:-1,24/7 La Tortuga DArtagnan y Dum Dum
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170913
+#EXTINF:-1,24/7 Bravestarr
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170914
+#EXTINF:-1,24/7 Aventura de un lobo adolescente
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170915
+#EXTINF:-1,24/7 Don Gato y su pandilla
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170916
+#EXTINF:-1,24/7 La pequeña Lulu
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170917
+#EXTINF:-1,24/7 La tropa Goofy
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170918
+#EXTINF:-1,24/7 Las aventuras de tin tin
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170919
+#EXTINF:-1,24/7 Las olimpiadas de la risa
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170920
+#EXTINF:-1,24/7 Las tres mellizas
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170921
+#EXTINF:-1,24/7 Lilo y Stitch
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170922
+#EXTINF:-1,24/7 Lindo Pulgoso
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170923
+#EXTINF:-1,24/7 Looney Tunes 1936
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170924
+#EXTINF:-1,24/7 Los 4 fantasticos
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170925
+#EXTINF:-1,24/7 Los Autos Locos
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170926
+#EXTINF:-1,24/7 Los Locos Adams
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170927
+#EXTINF:-1,24/7 Los Herculoides
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170928
+#EXTINF:-1,24/7 Los pequeños Picapiedra
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170929
+#EXTINF:-1,24/7 Los Supersónicos
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170930
+#EXTINF:-1,24/7 Mandibulin
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/170931
+#EXTINF:-1,NBA TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173874
+#EXTINF:-1,NBA TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173875
+#EXTINF:-1,NBA 02 EVENTO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173877
+#EXTINF:-1,NBA 12 EVENTO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173887
+#EXTINF:-1,MC Pop Hits
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173898
+#EXTINF:-1,MC Pop & Country
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173899
+#EXTINF:-1,MC Dance
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173900
+#EXTINF:-1,MC Y2K
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173901
+#EXTINF:-1,MC Hit List
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173902
+#EXTINF:-1,MC Hip Hop and R&B
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173903
+#EXTINF:-1,MC Musica Urbana
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173904
+#EXTINF:-1,MC Tropicales
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173905
+#EXTINF:-1,MC Mexicana
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173906
+#EXTINF:-1,MC Rap
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173907
+#EXTINF:-1,MC Trowback Jamz
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173908
+#EXTINF:-1,MC Pop Latino
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173909
+#EXTINF:-1,MC Teen Beats
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173910
+#EXTINF:-1,MC R&B Soul
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173911
+#EXTINF:-1,MC Country Hits
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173912
+#EXTINF:-1,MC 90's
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173913
+#EXTINF:-1,MC Toddler Tunes
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173914
+#EXTINF:-1,MC Kidz Only
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173915
+#EXTINF:-1,MC Rock
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173916
+#EXTINF:-1,MC Metal
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173917
+#EXTINF:-1,MC 80's
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173918
+#EXTINF:-1,MC Music Choice Max
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173919
+#EXTINF:-1,MC Kidz Bop
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173920
+#EXTINF:-1,MC Learn & Play
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173921
+#EXTINF:-1,MC Rap 2K
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173922
+#EXTINF:-1,MC Soft Rock
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173923
+#EXTINF:-1,MC Today´s Country
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173924
+#EXTINF:-1,MC Family Hits
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173925
+#EXTINF:-1,PR | Mega TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177799
+#EXTINF:-1,PR | Punto 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177800
+#EXTINF:-1,PR | WIPR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177801
+#EXTINF:-1,PR | WAPA 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177802
+#EXTINF:-1,PR | Telemundo
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177803
+#EXTINF:-1,PR | Teleonce Puerto Rico
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177804
+#EXTINF:-1,PR | Wapa
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177805
+#EXTINF:-1,PR | Wapa America
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177806
+#EXTINF:-1,PR | Wapa America*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177807
+#EXTINF:-1,PR | Wipr *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177808
+#EXTINF:-1,PR | Mega TV *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177809
+#EXTINF:-1,PR | Punto 2 *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177810
+#EXTINF:-1,PR | Telemundo *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177811
+#EXTINF:-1,PR | Wapa *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177812
+#EXTINF:-1,PR | Wapa 2 *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177813
+#EXTINF:-1,PR | Univision Puerto Rico *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177814
+#EXTINF:-1,PR | Teleonce PR *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177815
+#EXTINF:-1,PR | Teleisla PR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/177816
+#EXTINF:-1,ESPAÑA : PORTADA M+
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179119
+#EXTINF:-1,ESPAÑA | #0 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179120
+#EXTINF:-1,ESPAÑA | Canal 0 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179121
+#EXTINF:-1,ESPAÑA | #0 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179122
+#EXTINF:-1,ESPAÑA | Movistar Series SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179123
+#EXTINF:-1,ESPAÑA | Movistar Series HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179124
+#EXTINF:-1,ESPAÑA | Movistar Series FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179125
+#EXTINF:-1,ESPAÑA | MOVISTAR SERIES 2 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179126
+#EXTINF:-1,ESPAÑA | MOVISTAR SERIES 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179127
+#EXTINF:-1,ESPAÑA | MOVISTAR SERIES 2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179128
+#EXTINF:-1,ESPAÑA | Fox SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179129
+#EXTINF:-1,ESPAÑA | Fox HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179130
+#EXTINF:-1,ESPAÑA | Fox FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179131
+#EXTINF:-1,ESPAÑA | AXN SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179132
+#EXTINF:-1,ESPAÑA | AXN HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179133
+#EXTINF:-1,ESPAÑA | AXN FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179134
+#EXTINF:-1,ESPAÑA | Warner TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179135
+#EXTINF:-1,ESPAÑA | Warner TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179136
+#EXTINF:-1,ESPAÑA | Warner TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179137
+#EXTINF:-1,ESPAÑA | Comedy Central SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179138
+#EXTINF:-1,ESPAÑA | Comedy Central HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179139
+#EXTINF:-1,ESPAÑA | Comedy Central FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179140
+#EXTINF:-1,ESPAÑA | Calle 13 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179141
+#EXTINF:-1,ESPAÑA | Calle 13 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179142
+#EXTINF:-1,ESPAÑA | Calle 13 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179143
+#EXTINF:-1,ESPAÑA | AMC SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179144
+#EXTINF:-1,ESPAÑA | AMC HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179145
+#EXTINF:-1,ESPAÑA | AMC FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179146
+#EXTINF:-1,ESPAÑA | AXN White SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179147
+#EXTINF:-1,ESPAÑA | AXN White HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179148
+#EXTINF:-1,ESPAÑA | AXN White FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179149
+#EXTINF:-1,ESPAÑA | SyFy SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179150
+#EXTINF:-1,ESPAÑA | SyFy HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179151
+#EXTINF:-1,ESPAÑA | SyFy FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179152
+#EXTINF:-1,ESPAÑA | ENERGY SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179153
+#EXTINF:-1,ESPAÑA | ENERGY SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179154
+#EXTINF:-1,ESPAÑA | Energy HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179155
+#EXTINF:-1,ESPAÑA | ENERGY FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179156
+#EXTINF:-1,ESPAÑA  | XTRM SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179157
+#EXTINF:-1,ESPAÑA | XTRM HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179158
+#EXTINF:-1,ESPAÑA  | XTRM FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179159
+#EXTINF:-1,ESPAÑA | FDF SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179160
+#EXTINF:-1,ESPAÑA | FDF HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179161
+#EXTINF:-1,ESPAÑA | FDF FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179162
+#EXTINF:-1,ESPAÑA  |ATRESERIES SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179163
+#EXTINF:-1,ESPAÑA | ATRESERIES HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179164
+#EXTINF:-1,ESPAÑA | ATRESERIES FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179165
+#EXTINF:-1,ESPAÑA | ATRESERIES INT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179166
+#EXTINF:-1,ESPAÑA : M+ Universo Tarantino SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179167
+#EXTINF:-1,ESPAÑA : M+ Universo Tarantino HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179168
+#EXTINF:-1,ESPAÑA : M+ Universo Tarantino FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179169
+#EXTINF:-1,ESPAÑA | Movistar Estrenos SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179170
+#EXTINF:-1,ESPAÑA | Movistar Estrenos HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179171
+#EXTINF:-1,ESPAÑA | Movistar Estrenos FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179172
+#EXTINF:-1,ESPAÑA | MOVISTAR ESTRENOS 2 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179173
+#EXTINF:-1,ESPAÑA | MOVISTAR ESTRENOS 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179174
+#EXTINF:-1,ESPAÑA | MOVISTAR ESTRENOS 2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179175
+#EXTINF:-1,ESPAÑA : M. Clasicos SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179176
+#EXTINF:-1,ESPAÑA : M. Clasicos HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179177
+#EXTINF:-1,ESPAÑA : M. Clasicos FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179178
+#EXTINF:-1,ESPAÑA | Movistar Accion SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179179
+#EXTINF:-1,ESPAÑA | Movistar Accion HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179180
+#EXTINF:-1,ESPAÑA | Movistar Accion FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179181
+#EXTINF:-1,ESPAÑA | Movistar Comedia SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179182
+#EXTINF:-1,ESPAÑA | Movistar Comedia HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179183
+#EXTINF:-1,ESPAÑA | Movistar Comedia FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179184
+#EXTINF:-1,ESPAÑA | MOVISTAR Drama SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179185
+#EXTINF:-1,ESPAÑA | MOVISTAR Drama HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179186
+#EXTINF:-1,ESPAÑA | MOVISTAR Drama FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179187
+#EXTINF:-1,ESPAÑA : Movistar Los Goya SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179188
+#EXTINF:-1,ESPAÑA : Movistar Los Goya HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179189
+#EXTINF:-1,ESPAÑA : Movistar Los Goya FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179190
+#EXTINF:-1,ESPAÑA | TCM SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179191
+#EXTINF:-1,ESPAÑA | TCM HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179192
+#EXTINF:-1,ESPAÑA | TCM FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179193
+#EXTINF:-1,ESPAÑA | Hollywood SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179194
+#EXTINF:-1,ESPAÑA | Hollywood HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179195
+#EXTINF:-1,ESPAÑA | Hollywood FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179196
+#EXTINF:-1,ESPAÑA  | SUNDANCE SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179197
+#EXTINF:-1,ESPAÑA | SUNDANCE HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179198
+#EXTINF:-1,ESPAÑA | SUNDANCE FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179199
+#EXTINF:-1,ESPAÑA : BOM Cine SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179200
+#EXTINF:-1,ESPAÑA : BOM Cine HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179201
+#EXTINF:-1,ESPAÑA | Dark SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179202
+#EXTINF:-1,ESPAÑA | Dark HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179203
+#EXTINF:-1,ESPAÑA | Dark FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179204
+#EXTINF:-1,ESPAÑA | PARAMOUNT CHANNEL SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179205
+#EXTINF:-1,ESPAÑA | PARAMOUNT CHANNEL HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179206
+#EXTINF:-1,ESPAÑA | PARAMOUNT CHANNEL FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179207
+#EXTINF:-1,ESPAÑA : AMC CRIME SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179208
+#EXTINF:-1,ESPAÑA : AMC CRIME HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179209
+#EXTINF:-1,ESPAÑA | DIVINITY SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179210
+#EXTINF:-1,ESPAÑA | DIVINITY HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179211
+#EXTINF:-1,ESPAÑA | DIVINITY FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179212
+#EXTINF:-1,ESPAÑA | SOMOS SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179213
+#EXTINF:-1,ESPAÑA | SOMOS HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179214
+#EXTINF:-1,ESPAÑA |SOMOS FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179215
+#EXTINF:-1,ESPAÑA | ALQUILER 1 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179216
+#EXTINF:-1,ESPAÑA | ALQUILER 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179217
+#EXTINF:-1,ESPAÑA | ALQUILER 3 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179218
+#EXTINF:-1,ESPAÑA | ALQUILER 4 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179219
+#EXTINF:-1,ESPAÑA | ALQUILER ALQUIER 5 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179220
+#EXTINF:-1,MLB | Rangers VS Tigers | 05/31/2023 11:10:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179516
+#EXTINF:-1,MLB | Angels VS White Sox | 05/31/2023 12:10:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179517
+#EXTINF:-1,MLB | Rays VS Cubs | 05/31/2023 12:20:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179518
+#EXTINF:-1,MLB | Guardians VS Orioles | 05/31/2023 13:05:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179519
+#EXTINF:-1,MLB | Braves VS Athletics | 05/31/2023 13:37:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179520
+#EXTINF:-1,MLB | Pirates VS Giants | 05/31/2023 13:45:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179521
+#EXTINF:-1,MLB | Nationals VS Dodgers | 05/31/2023 14:10:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179522
+#EXTINF:-1,MLB | Padres VS Marlins | 05/31/2023 16:40:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179523
+#EXTINF:-1,MLB | Brewers VS Blue Jays | 05/31/2023 17:07:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179524
+#EXTINF:-1,MLB | Reds VS Red Sox | 05/31/2023 17:10:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179525
+#EXTINF:-1,MLB | Phillies VS Mets | 05/31/2023 17:10:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179526
+#EXTINF:-1,MLB | Twins VS Astros | 05/31/2023 18:10:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179527
+#EXTINF:-1,MLB | Rockies VS D-backs | 05/31/2023 19:40:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179528
+#EXTINF:-1,MLB | Yankees VS Mariners | 05/31/2023 19:40:00
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179529
+#EXTINF:-1,LA..Cine Accion
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12271
+#EXTINF:-1,LA..Cine Accion HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12272
+#EXTINF:-1,LA..Cine Accion Sagas HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12274
+#EXTINF:-1,LA..Cine Comedia 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12275
+#EXTINF:-1,LA..Cine Comedia 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12276
+#EXTINF:-1,LA..Cine Ficcion/Fantasia 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12277
+#EXTINF:-1,LA..Cine Ficcion/Fantasia 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12278
+#EXTINF:-1,LA..Cine Ficcion/Fantasia HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12279
+#EXTINF:-1,LA..Cine Ficcion/Fantasia Sagas
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12280
+#EXTINF:-1,LA..Cine Infantil
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12281
+#EXTINF:-1,LA..Cine Infantil HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12282
+#EXTINF:-1,LA..Cine Infantil Sagas
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12283
+#EXTINF:-1,LA..Cine Infantil Sagas HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12284
+#EXTINF:-1,LA..Cine Marvel
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12286
+#EXTINF:-1,LA..Cine Romance
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12288
+#EXTINF:-1,LA..Cine Romance HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12289
+#EXTINF:-1,LA..Cine Terror
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12290
+#EXTINF:-1,LA..Cine Terror HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12291
+#EXTINF:-1,LA..Cine Zombis
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/12292
+#EXTINF:-1,CL- 24 HORAS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39818
+#EXTINF:-1,CL- 24 HORAS HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/68502
+#EXTINF:-1,CL- CNN CHILE SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39786
+#EXTINF:-1,CL- CNN CHILE HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39785
+#EXTINF:-1,CL- TVN SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39800
+#EXTINF:-1,CL- TVN HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39803
+#EXTINF:-1,CL- TVN HD*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39801
+#EXTINF:-1,CL- TVN FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39802
+#EXTINF:-1,CL- MEGA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39787
+#EXTINF:-1,CL- MEGA SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39789
+#EXTINF:-1,CL- MEGA HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39788
+#EXTINF:-1,CL- MEGA HD*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39790
+#EXTINF:-1,CL- MEGA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39791
+#EXTINF:-1,CL- CHILEVISION SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39804
+#EXTINF:-1,CL- CHILEVISION HD*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39805
+#EXTINF:-1,CL- CHILEVISION HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39806
+#EXTINF:-1,CL- CHILEVISION FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39807
+#EXTINF:-1,CL- CANAL 13
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39792
+#EXTINF:-1,CL- CANAL 13 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39796
+#EXTINF:-1,CL- CANAL 13 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39794
+#EXTINF:-1,CL- CANAL 13 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39795
+#EXTINF:-1,CL- LA RED SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39810
+#EXTINF:-1,CL- LA RED HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39811
+#EXTINF:-1,CL- LA RED FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39812
+#EXTINF:-1,CL- LA RED (Directo)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/56816
+#EXTINF:-1,CL- 13 CABLE HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39798
+#EXTINF:-1,CL- 13 CABLE HD *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39799
+#EXTINF:-1,CL- 13i HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39797
+#EXTINF:-1,CL- La Rec TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39808
+#EXTINF:-1,CL- La Rec TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40716
+#EXTINF:-1,CL- TV+ HD DIRECTO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39816
+#EXTINF:-1,CL- TV+ SD 
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39817
+#EXTINF:-1,CL- VIA-X SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/65071
+#EXTINF:-1,CL- VIA X HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/149836
+#EXTINF:-1,CL- ETC TV FULL HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39820
+#EXTINF:-1,CL- ETC TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39819
+#EXTINF:-1,CL- Teletrak SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39815
+#EXTINF:-1,CL- Teletrak HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/39814
+#EXTINF:-1,CL- Teletrak HD (Directo)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/10125
+#EXTINF:-1,CL- Camara de Diputados
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/45368
+#EXTINF:-1,TV+ | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/118365
+#EXTINF:-1,UCV | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/118379
+#EXTINF:-1,UCV 2 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/118380
+#EXTINF:-1,TVMas2 | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/118366
+#EXTINF:-1,TV Senado | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/118392
+#EXTINF:-1,CHV Noticias | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/118399
+#EXTINF:-1,TVN 24 Horas | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/149834
+#EXTINF:-1,TVN 24 Horas 2 | CL
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
+#EXTINF:-1,CL- 13 Cultura
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/149826
+#EXTINF:-1,CL- 13 Entretencion
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/149827
+#EXTINF:-1,CL- 13 Prime
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/149828
+#EXTINF:-1,CL- 13 Teleseries
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/149829
+#EXTINF:-1,CL- T13
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/149830
+#EXTINF:-1,CL- D13
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/149831
+#EXTINF:-1,CL- T13 Radio
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/149832
+#EXTINF:-1,TNT Sports HD - OP 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164156
+#EXTINF:-1,TNT Sports Estadio HD - CL (EVENTOS) 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164157
+#EXTINF:-1,TNT Sports Estadio HD - CL (EVENTOS) 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164158
+#EXTINF:-1,TNT Sports HD - OP 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164159
+#EXTINF:-1,TNT Sports HD - OP 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164160
+#EXTINF:-1,TNT Sports HD - OP 4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164161
+#EXTINF:-1,TNT Sports HD - OP 5
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164162
+#EXTINF:-1,TNT Sports HD - OP 6
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164163
+#EXTINF:-1,TNT Sports 2 HD - OP 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164164
+#EXTINF:-1,TNT Sports 2 HD - OP 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164165
+#EXTINF:-1,TNT Sports 2 HD - OP 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164166
+#EXTINF:-1,TNT sports 3 - OP 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164167
+#EXTINF:-1,TNT sports 3 - OP 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164168
+#EXTINF:-1,TNT sports 3 - OP 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/164169
+#EXTINF:-1,ESPAÑA | ANTENA 3 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178825
+#EXTINF:-1,ESPAÑA | ANTENA 3 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178826
+#EXTINF:-1,ESPAÑA | ANTENA 3 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178827
+#EXTINF:-1,ESPAÑA | ANTENA 3 INTERNACIONAL FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178828
+#EXTINF:-1,MY PADEL TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178823
+#EXTINF:-1,MY PADEL TV HD 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178824
+#EXTINF:-1,World Padel Tour Tv (Solo Eventos)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178830
+#EXTINF:-1,PPV EVENTOS 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/54429
+#EXTINF:-1,PPV EVENTOS 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/55670
+#EXTINF:-1,PE: Canal N
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32652
+#EXTINF:-1,PE: Exitosa HD (EXCLUSIVA)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32654
+#EXTINF:-1,PE: Frecuencia Latina FHD (EXCLUSIVO)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32655
+#EXTINF:-1,PE: Panamericana HD (EXCLUSIVO)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32658
+#EXTINF:-1,PE: Panamericana SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32659
+#EXTINF:-1,PE: Peru Magico (EXCLUSIVOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32660
+#EXTINF:-1,PE: Peru Magico (MOVIL)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32661
+#EXTINF:-1,PE: RPP FHD (EXCLUSIVO)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32662
+#EXTINF:-1,PE: RPP (MOVIL)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32663
+#EXTINF:-1,PE: RPP HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32664
+#EXTINF:-1,PE: TV Peru (EXCLUSIVO)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32665
+#EXTINF:-1,PE: TV Peru (MOVIL)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32666
+#EXTINF:-1,PE: TV Peru Noticias
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/32667
+#EXTINF:-1,PE: ATV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40549
+#EXTINF:-1,PE : CAPITAL TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40550
+#EXTINF:-1,PE: DIRECTV SPORTS HD ©
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40683
+#EXTINF:-1,PE : MOVISTAR DEPORTES PLUS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/40715
+#EXTINF:-1,PE | MOVISTAR DEPORTES
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/56772
+#EXTINF:-1,PE | MOVISTAR DEPORTES SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/56773
+#EXTINF:-1,ES: BLAZE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38028
+#EXTINF:-1,ES: #0 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38030
+#EXTINF:-1,ES:24 Horas HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38031
+#EXTINF:-1,ES: MOVISTAR LALIGA HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38032
+#EXTINF:-1,ES:BLOOMBERG
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38033
+#EXTINF:-1,ES: CRIME AND INVESTIGATION
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38038
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38039
+#EXTINF:-1,ES:GALICIA TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38042
+#EXTINF:-1,ES: LALIGA TV BAR HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38043
+#EXTINF:-1,ES:MOVISTAR DEPORTES 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38044
+#EXTINF:-1,ES:MOVISTAR SERIE MANIA HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38045
+#EXTINF:-1,ES: TAQUILLA 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38047
+#EXTINF:-1,ES: TAQUILLA 3 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38048
+#EXTINF:-1,ES: TAQUILLA 4 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38049
+#EXTINF:-1,ES: TAQUILLA 5 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38050
+#EXTINF:-1,ES: TAQUILLA 6 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38051
+#EXTINF:-1,ES: TOROS HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38052
+#EXTINF:-1,ES: TVE 24H
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38053
+#EXTINF:-1,ES:Teledeporte HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38054
+#EXTINF:-1,ES:MADRID TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38055
+#EXTINF:-1,ES:Movistar Fórmula 1 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38056
+#EXTINF:-1,ES: Movistar Golf FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38057
+#EXTINF:-1,ES:Movistar Deportes HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38058
+#EXTINF:-1,ES: GOL TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38060
+#EXTINF:-1,ES: Eurosport 1 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38061
+#EXTINF:-1,ES: Eurosport 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38062
+#EXTINF:-1,ES:MEZZO LIVE HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38063
+#EXTINF:-1,ES: Mega HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38064
+#EXTINF:-1,ES: Movistar Liga de Campeones HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38065
+#EXTINF:-1,ES: FOX LIFE HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38066
+#EXTINF:-1,ES: FOX HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38067
+#EXTINF:-1,ES:FDF HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38068
+#EXTINF:-1,ES:DKISS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38069
+#EXTINF:-1,ES:Divinity HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38070
+#EXTINF:-1,ES: DISNEY CHANEL HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38071
+#EXTINF:-1,ES:DISNEY XD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38072
+#EXTINF:-1,ES:Disney Jr
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38073
+#EXTINF:-1,ES:Canal Casa
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38074
+#EXTINF:-1,ES:Cosmo HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38075
+#EXTINF:-1,ES: CLAN TVE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38076
+#EXTINF:-1,ES: TVE LA 1 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38078
+#EXTINF:-1,ES: TVE LA 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38079
+#EXTINF:-1,ES: Cuatro HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38080
+#EXTINF:-1,ES: La Sexta HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38081
+#EXTINF:-1,ES:MOVISTAR ACCION HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38082
+#EXTINF:-1,ES:MTV ESPAÑA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38083
+#EXTINF:-1,ES: NAT GEO HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38084
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38085
+#EXTINF:-1,ES:NICK JUNIOR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38086
+#EXTINF:-1,ES:ODESEA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38088
+#EXTINF:-1,ES:PANDA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38089
+#EXTINF:-1,ES:SUNDANCE HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38090
+#EXTINF:-1,ES:SYFY HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38091
+#EXTINF:-1,ES: TELEMADRID HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38092
+#EXTINF:-1,ES: TNT HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38093
+#EXTINF:-1,ES:XTRM
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38094
+#EXTINF:-1,ES: Boing HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38096
+#EXTINF:-1,ES:ARAGON TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38099
+#EXTINF:-1,ES: AXN HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38100
+#EXTINF:-1,ES: AXN WHITE HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38101
+#EXTINF:-1,ES:BARCA TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38102
+#EXTINF:-1,ES:Be Mad HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38103
+#EXTINF:-1,ES: BLAZE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38104
+#EXTINF:-1,ES:LA LIGA 2 TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38109
+#EXTINF:-1,ES: LA LIGA TV HD BAR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38111
+#EXTINF:-1,ES:MOVISTAR DEPORTES HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38112
+#EXTINF:-1,ES: Movistar Comedia TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38114
+#EXTINF:-1,ES: Movistar Cine Ñ
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38115
+#EXTINF:-1,ES: CALLE 13 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38118
+#EXTINF:-1,ES: FOX
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38120
+#EXTINF:-1,ES: FOX LIFE FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38121
+#EXTINF:-1,ES: Telecinco HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38125
+#EXTINF:-1,ES: Cuatro FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38126
+#EXTINF:-1,ES: La 1 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38128
+#EXTINF:-1,ES: LA 1 HD HEVC
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38129
+#EXTINF:-1,ES: VIAJAR HD HEVC
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38131
+#EXTINF:-1,ES:I24 NEWS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38133
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38134
+#EXTINF:-1,ES: Movistar Acción TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38135
+#EXTINF:-1,ES:MOVISTAR FOTBOL FHD 4K
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38138
+#EXTINF:-1,ES:Odisea HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/38141
+#EXTINF:-1,ES:#VAMOS HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/66435
+#EXTINF:-1,ES:#VAMOS HD HEVC
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/66436
+#EXTINF:-1,MOVISTAR VAMOS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/66437
+#EXTINF:-1,MOVISTAR  VAMOS FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/66439
+#EXTINF:-1,PPV EVENTOS 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/117004
+#EXTINF:-1,PPV EVENTOS 4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121838
+#EXTINF:-1,USA | NBA TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/122189
+#EXTINF:-1,USA | NBA TV OP1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/122190
+#EXTINF:-1,NBA TV HD (PT)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/122191
+#EXTINF:-1,NBA 01 League Pass
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/122192
+#EXTINF:-1,PPV EVENTOS 5
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/163506
+#EXTINF:-1,Opcion 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/163843
+#EXTINF:-1,Opcion 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/163844
+#EXTINF:-1,Opcion 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/163845
+#EXTINF:-1,Opcion 4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/163847
+#EXTINF:-1,OP2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165574
+#EXTINF:-1,OP1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165578
+#EXTINF:-1,OP3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165571
+#EXTINF:-1,OP4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165563
+#EXTINF:-1,OP7
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165579
+#EXTINF:-1,OP6
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165562
+#EXTINF:-1,OP5
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/173119
+#EXTINF:-1,OP8
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165577
+#EXTINF:-1,OP1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165570
+#EXTINF:-1,OP3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165644
+#EXTINF:-1,OP2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/167367
+#EXTINF:-1,OP4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165569
+#EXTINF:-1,OP6
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165573
+#EXTINF:-1,OP5
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/167368
+#EXTINF:-1,Kings League
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169127
+#EXTINF:-1,Kings League / 04-06 / 11-06 / 18-06 / 25-06 / 05-07 / 09-07 / 16-07 / 
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169128
+#EXTINF:-1,Mundial SUb-20 (1)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178831
+#EXTINF:-1,Mundial SUb-20 (2)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178832
+#EXTINF:-1,Mundial SUb-20 (3)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178833
+#EXTINF:-1,Mundial SUb-20 (4)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178834
+#EXTINF:-1,Mundial SUb-20 (5)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178835
+#EXTINF:-1,MUNDIAL SUB-20 - DIRECTV SPORTS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178836
+#EXTINF:-1,MUNDIAL SUB-20 - TyC SPORTS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178837
+#EXTINF:-1,MUNDIAL SUB-20 - TELEMUNDO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178838
+#EXTINF:-1,MUNDIAL SUB-20 - DEPORTES TVC
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178839
+#EXTINF:-1,MUNDIAL SUB-20 - FOX SOCCER PLUS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178840
+#EXTINF:-1,MUNDIAL SUB-20 - DIRECTV SPORTS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178841
+#EXTINF:-1,MUNDIAL SUB-20 - UNIVERSO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178842
+#EXTINF:-1,MUNDIAL SUB-20 - TV PUBLICA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178843
+#EXTINF:-1,MUNDIAL SUB-20 - FOX SPORTS 2 USA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/178844
+#EXTINF:-1,ES | VAMOS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179230
+#EXTINF:-1,ES | #VAMOS HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179231
+#EXTINF:-1,ES | Vamos FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179232
+#EXTINF:-1,ES |  LaLiga HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179233
+#EXTINF:-1,ES |  LA Liga FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179234
+#EXTINF:-1,ES | LA LIGA TV 4K (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179235
+#EXTINF:-1,DAZN LIGA SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179236
+#EXTINF:-1,DAZN LIGA HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179237
+#EXTINF:-1,DAZN LA LIGA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179238
+#EXTINF:-1,ES | MOVISTAR LALIGA 2 (Solo eventos)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179239
+#EXTINF:-1,ES | M. LaLiga 2 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179240
+#EXTINF:-1,ES | LALIGA 2 SD (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179241
+#EXTINF:-1,ES | LA LIGA 2 TV HD (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179242
+#EXTINF:-1,ES | MOVISTAR LA LIGA 2 HD HEVC  ( SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179243
+#EXTINF:-1,ES | M. LaLiga 2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179244
+#EXTINF:-1,ES | MOVISTAR LALIGA 3 (Solo eventos)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179245
+#EXTINF:-1,ES | M. LaLiga 3 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179246
+#EXTINF:-1,ES | LALIGA 3 SD (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179247
+#EXTINF:-1,ES | MOVISTAR LA LIGA 3 HD ( SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179248
+#EXTINF:-1,ES | M. LaLiga 3 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179249
+#EXTINF:-1,ES | MOVISTAR LIGA DE CAMPEONES
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179250
+#EXTINF:-1,ES | M. LA LIGA DE CAMPEONES (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179251
+#EXTINF:-1,ES | Movistar Liga De Campeones HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179252
+#EXTINF:-1,ES | LIGA DE CAMPEONES FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179253
+#EXTINF:-1,ES: M. Liga de Campeones 4K
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179254
+#EXTINF:-1,ES | MOVISTAR LIGA DE CAMPEONES 2 [LIVE-EVENT]
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179255
+#EXTINF:-1,SP: ES: M. Liga de Campeones 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179256
+#EXTINF:-1,ES | M. DEPORTES SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179257
+#EXTINF:-1,ES |  M. DEPORTES HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179258
+#EXTINF:-1,ES |  M. DEPORTES FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179259
+#EXTINF:-1,ES |  M. DEPORTES 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179260
+#EXTINF:-1,ES |  M. DEPORTES 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179261
+#EXTINF:-1,ES |  M. DEPORTES 2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179262
+#EXTINF:-1,ESPAÑA: MOVISTAR ELLAS #V SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179263
+#EXTINF:-1,ESPAÑA: MOVISTAR ELLAS #V HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179264
+#EXTINF:-1,ESPAÑA: MOVISTAR ELLAS #V FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179265
+#EXTINF:-1,*ES | Movistar Golf
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179266
+#EXTINF:-1,ES | MOVISTAR GOLF  HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179267
+#EXTINF:-1,ES | MOVISTAR GOLF  FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179268
+#EXTINF:-1,DAZN F1 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179269
+#EXTINF:-1,ES | M.FORMULA1 HD CONEXION BAJA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179270
+#EXTINF:-1,DAZN F1 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179271
+#EXTINF:-1,DAZN F1 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179272
+#EXTINF:-1,DAZN 1 FHD (x265)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179273
+#EXTINF:-1,DAZN 2 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179274
+#EXTINF:-1,DAZN 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179275
+#EXTINF:-1,DAZN 2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179276
+#EXTINF:-1,DAZN 2 FHD (x265)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179277
+#EXTINF:-1,ES | EuroSport 1 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179278
+#EXTINF:-1,ES | EuroSport 1 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179279
+#EXTINF:-1,ES | EuroSport 1 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179280
+#EXTINF:-1,ES | Eurosport 2 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179281
+#EXTINF:-1,ES | Eurosport 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179282
+#EXTINF:-1,ES | Eurosport 2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179283
+#EXTINF:-1,ES | GOL PLAY SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179284
+#EXTINF:-1,ES | GOL PLAY HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179285
+#EXTINF:-1,ES | GOL PLAY FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179286
+#EXTINF:-1,ES | TELEDEPORTE SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179287
+#EXTINF:-1,ES | TELEDEPORTE HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179288
+#EXTINF:-1,ES | TELEDEPORTE FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179289
+#EXTINF:-1,ESPAÑA : IBERALIA 100% CAZA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179290
+#EXTINF:-1,ESPAÑA : IBERALIA 100% PESCA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179291
+#EXTINF:-1,ES | Mundotoros SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179292
+#EXTINF:-1,ES | Mundotoros HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179293
+#EXTINF:-1,ES | Mundotoros FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179294
+#EXTINF:-1,ES | Torolé SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179295
+#EXTINF:-1,ES | Torolé HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179296
+#EXTINF:-1,ES | +Real Madrid TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179297
+#EXTINF:-1,ES | Real Madrid TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179298
+#EXTINF:-1,ES | Barca TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179299
+#EXTINF:-1,ES | Barca TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179300
+#EXTINF:-1,ES | Barca TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179301
+#EXTINF:-1,ES | EL TORO TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179302
+#EXTINF:-1,ES | EL TORO TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179303
+#EXTINF:-1,ES | Esport 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179304
+#EXTINF:-1,ES | M. LaLiga 4 ( Solo eventos)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179305
+#EXTINF:-1,ES | Movistar LaLiga 4 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179306
+#EXTINF:-1,ES | LALIGA 4 SD (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179307
+#EXTINF:-1,ES | LALIGA 4 HD (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179308
+#EXTINF:-1,ES | LALIGA 4 FHD (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179309
+#EXTINF:-1,ES | M. LaLiga 5 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179310
+#EXTINF:-1,ES | LALIGA 5 SD (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179311
+#EXTINF:-1,ES | LALIGA 5 HD (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179312
+#EXTINF:-1,ES | LALIGA 5 FHD (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179313
+#EXTINF:-1,ES | LALIGA 6 (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179314
+#EXTINF:-1,ES | M. LaLiga 6 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179315
+#EXTINF:-1,ES | LALIGA 7  (SÓLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179316
+#EXTINF:-1,ES | M. LaLiga 7 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179317
+#EXTINF:-1,DAZN LIGA 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179318
+#EXTINF:-1,DAZN LA LIGA 2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179319
+#EXTINF:-1,ES | LALIGA 8  (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179320
+#EXTINF:-1,ES | M. LaLiga 8 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179321
+#EXTINF:-1,ES | LALIGA 9 (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179322
+#EXTINF:-1,ES | M. LaLiga 9 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179323
+#EXTINF:-1,ES | M. LaLiga 10 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179324
+#EXTINF:-1,DAZN 3 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179325
+#EXTINF:-1,DAZN 3 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179326
+#EXTINF:-1,DAZN 3 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179327
+#EXTINF:-1,DAZN 3 FHD (x265)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179328
+#EXTINF:-1,DAZN 3 FHD (x265)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179329
+#EXTINF:-1,DAZN 4 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179330
+#EXTINF:-1,DAZN 4 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179331
+#EXTINF:-1,DAZN 4 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179332
+#EXTINF:-1,DAZN 4 FHD (x265)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179333
+#EXTINF:-1,PDE- M. Liga Campeones 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179334
+#EXTINF:-1,SP: ES: M. Liga de Campeones 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179335
+#EXTINF:-1,SP: ES: M. Liga de Campeones 3 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179336
+#EXTINF:-1,SP: ES: M. Liga de Campeones 3 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179337
+#EXTINF:-1,SP: ES: M. Liga de Campeones 3 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179338
+#EXTINF:-1,PDE- M. Liga Campeones 4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179339
+#EXTINF:-1,PDE- M. Liga Campeones 4 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179340
+#EXTINF:-1,PDE- M. Liga Campeones 4 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179341
+#EXTINF:-1,SP: ES: M. Liga de Campeones 4 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179342
+#EXTINF:-1,PDE- M. Liga Campeones 5
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179343
+#EXTINF:-1,PDE- M. Liga Campeones 5 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179344
+#EXTINF:-1,SP: ES: M. Liga de Campeones 5 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179345
+#EXTINF:-1,PDE- M. Liga Campeones 6
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179346
+#EXTINF:-1,SP: ES: M. Liga de Campeones 6
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179347
+#EXTINF:-1,PDE- M. Liga Campeones 7
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179348
+#EXTINF:-1,SP: ES: M. Liga de Campeones 7
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179349
+#EXTINF:-1,SP: ES: M. Liga de Campeones 8
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179350
+#EXTINF:-1,M+ Liga de Campeones 9
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179351
+#EXTINF:-1,M+ Liga de Campeones 10
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179352
+#EXTINF:-1,M+ Liga de Campeones 11
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179353
+#EXTINF:-1,M+ Liga de Campeones 12
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179354
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 13 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179355
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 14 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179356
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 15 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179357
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 16 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179358
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 17 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179359
+#EXTINF:-1,MDE- M. Deportes 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179360
+#EXTINF:-1,MDE- M. Deportes 3 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179361
+#EXTINF:-1,MDE- M. Deportes 3 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179362
+#EXTINF:-1,MDE- M. Deportes 4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179363
+#EXTINF:-1,MDE- M. Deportes 4 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179364
+#EXTINF:-1,MDE- M. Deportes 4 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179365
+#EXTINF:-1,MDE- M. Deportes 5
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179366
+#EXTINF:-1,MDE- M. Deportes 5 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179367
+#EXTINF:-1,MDE- M. Deportes 5 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179368
+#EXTINF:-1,M+ Deportes 6
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179369
+#EXTINF:-1,M+ Deportes 6 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179370
+#EXTINF:-1,M+ Deportes 6 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179371
+#EXTINF:-1,ES |  M. DEPORTES 7 (LIVEEVEENT)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179372
+#EXTINF:-1,DAZN F1 4K
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179373
+#EXTINF:-1,ES | Bein Sport HD (EN)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179374
+#EXTINF:-1,ES | Bein Sports LaLiga
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179375
+#EXTINF:-1,ES | beINSport LaLiga HD  ( SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179376
+#EXTINF:-1,ES | LA LIGA TV BAR 1 [LIVE-EVENT]
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179377
+#EXTINF:-1,ES | LA LIGA TV BAR 2 (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179378
+#EXTINF:-1,ES | LA LIGA TV BAR 4 (SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179379
+#EXTINF:-1,*ES Levante TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179380
+#EXTINF:-1,ES | Multideportes
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179381
+#EXTINF:-1,Orange Liga
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179382
+#EXTINF:-1,ESPAÑA : Horse TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179383
+#EXTINF:-1,ESPAÑA : Horse TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179384
+#EXTINF:-1,ESPAÑA : Nautical Channel
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179385
+#EXTINF:-1,ESPAÑA : Nautical Channel HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179386
+#EXTINF:-1,ESPAÑA : Ubeat SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179387
+#EXTINF:-1,ESPAÑA : Ubeat HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179388
+#EXTINF:-1,ESPAÑA : Ubeat FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179389
+#EXTINF:-1,Go&Go Tv hd 1080P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179390
+#EXTINF:-1,BETIS TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179391
+#EXTINF:-1,SEVILLA FC
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179392
+#EXTINF:-1,DBIKE HD 1080P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179393
+#EXTINF:-1,LA LIGA SMARTBANK TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179394
+#EXTINF:-1,LA LIGA SMARTBANK TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179395
+#EXTINF:-1,LA LIGA SMARTBANK TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179396
+#EXTINF:-1,LaLiga Smartbank TV M1 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179397
+#EXTINF:-1,LaLiga SmartbankTV M2 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179398
+#EXTINF:-1,LaLiga SmartbankTV M2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179399
+#EXTINF:-1,LaLiga SmartbankTV M2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179400
+#EXTINF:-1,LA LIGA SMARTBANK TV M3 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179401
+#EXTINF:-1,LA LIGA SMARTBANK TV M3 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179402
+#EXTINF:-1,LA LIGA SMARTBANK TV M3 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179403
+#EXTINF:-1,LaLiga SmartbankTV M4 HD 1080P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179404
+#EXTINF:-1,LaLiga SmartbankTV M5 HD 1080P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179405
+#EXTINF:-1,LaLiga SmartbankTV M6 HD 1080P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179406
+#EXTINF:-1,LaLiga SmartbankTV M7 HD 1080P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179407
+#EXTINF:-1,LaLiga SmartbankTV M8 HD 1080P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179408
+#EXTINF:-1,M+ Golf 2 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179409
+#EXTINF:-1,M+ Golf 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179410
+#EXTINF:-1,M+ Golf 2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179411
+#EXTINF:-1,MY PADEL TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179412
+#EXTINF:-1,DIRECTV SPORTS FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179413
+#EXTINF:-1,PL | ESPN 1 FHD (Latino)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179414
+#EXTINF:-1,LALIGA | LA LIGA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179415
+#EXTINF:-1,ES |  LaLiga HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179416
+#EXTINF:-1,LALIGA | LALIGA HD EXTRA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179417
+#EXTINF:-1,LALIGA | LALIGA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179418
+#EXTINF:-1,LALIGA | LALIGA FHD EXTRA 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179419
+#EXTINF:-1,LALIGA | LALIGA FHD EXTRA 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179420
+#EXTINF:-1,LALIGA | MOVISTAR LALIGA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179421
+#EXTINF:-1,ES |  LA Liga FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179422
+#EXTINF:-1,DAZN LIGA SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179423
+#EXTINF:-1,DAZN LIGA HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179424
+#EXTINF:-1,DAZN LA LIGA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179425
+#EXTINF:-1,DAZN LIGA 2 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179426
+#EXTINF:-1,DAZN LIGA 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179427
+#EXTINF:-1,DAZN LA LIGA 2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179428
+#EXTINF:-1,ES | Bein Sports LaLiga
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179429
+#EXTINF:-1,ES | Bein Sports LaLiga
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179430
+#EXTINF:-1,ES | beINSport LaLiga HD  ( SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179431
+#EXTINF:-1,LALIGA | LALIGA BAR SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179432
+#EXTINF:-1,LALIGA | TV BAR EXCLUSIVO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179433
+#EXTINF:-1,LALIGA | TV BAR EXCLUSIVO FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179434
+#EXTINF:-1,LALIGA | SKY SPORTS LALIGA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179435
+#EXTINF:-1,EVENTOS STAR+ SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179436
+#EXTINF:-1,EVENTOS STAR+ SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179437
+#EXTINF:-1,EVENTOS STAR+ HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179438
+#EXTINF:-1,EVENTOS STAR+ HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179439
+#EXTINF:-1,EVENTOS STAR+ FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179440
+#EXTINF:-1,EVENTOS STAR+ FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179441
+#EXTINF:-1,Orange Liga
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179442
+#EXTINF:-1,Go&Go Tv hd 1080P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179443
+#EXTINF:-1,LA LIGA SMARTBANK TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179444
+#EXTINF:-1,LA LIGA SMARTBANK TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179445
+#EXTINF:-1,LA LIGA SMARTBANK TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179446
+#EXTINF:-1,LaLiga Smartbank TV M1 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179447
+#EXTINF:-1,LaLiga Smartbank TV M1 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179448
+#EXTINF:-1,LaLiga SmartbankTV M2 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179449
+#EXTINF:-1,LaLiga SmartbankTV M2 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179450
+#EXTINF:-1,LA LIGA SMARTBANK TV M3 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179451
+#EXTINF:-1,LA LIGA SMARTBANK TV M3 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179452
+#EXTINF:-1,UEFA | TUDN HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179453
+#EXTINF:-1,SP: ES: M. Liga de Campeones
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179454
+#EXTINF:-1,SP: ES: M. Liga De Campeones HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179455
+#EXTINF:-1,SP: ES: M. Liga de Campeones FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179456
+#EXTINF:-1,SP: ES: M. Liga de Campeones 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179457
+#EXTINF:-1,SP: ES: M. Liga de Campeones 2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179458
+#EXTINF:-1,EVENTOS STAR+ SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179459
+#EXTINF:-1,EVENTOS STAR+ HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179460
+#EXTINF:-1,EVENTOS STAR+ FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179461
+#EXTINF:-1,UEFA | ELEVEN 1 HD PORTUGAL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179462
+#EXTINF:-1,UEFA | ELEVEN 2 HD PORTUGAL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179463
+#EXTINF:-1,UEFA | ELEVEN 3 HD PORTUGAL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179464
+#EXTINF:-1,UEFA | ELEVEN 4 HD PORTUGAL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179465
+#EXTINF:-1,UEFA | ELEVEN 5 HD PORTUGAL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179466
+#EXTINF:-1,UEFA | ELEVEN 6 HD PORTUGAL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179467
+#EXTINF:-1,UEFA | ESPN 2 SUR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179468
+#EXTINF:-1,UEFA | ESPN 3 SUR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179469
+#EXTINF:-1,UEFA | ESPN SUR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179470
+#EXTINF:-1,UEFA | MOVISTAR LIGA CAMPEONES 2 (SE) ESPA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179471
+#EXTINF:-1,UEFA | TUDN X1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179472
+#EXTINF:-1,UEFA | TUDN X10
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179473
+#EXTINF:-1,UEFA | TUDN X11
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179474
+#EXTINF:-1,UEFA | TUDN X2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179475
+#EXTINF:-1,UEFA | TUDN X3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179476
+#EXTINF:-1,UEFA | TUDN X4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179477
+#EXTINF:-1,UEFA | TUDN X5
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179478
+#EXTINF:-1,UEFA | TUDN X6
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179479
+#EXTINF:-1,UEFA | TUDN X7
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179480
+#EXTINF:-1,UEFA | TUDN X8
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179481
+#EXTINF:-1,UEFA | TUDN X9
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179482
+#EXTINF:-1,Instat TV 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179483
+#EXTINF:-1,Instat TV 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179484
+#EXTINF:-1,Instat TV 3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179485
+#EXTINF:-1,Instat tv 4
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179486
+#EXTINF:-1,Instat TV 5
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179487
+#EXTINF:-1,Instat TV 6
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179488
+#EXTINF:-1,Instat TV 7
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179489
+#EXTINF:-1,Instat TV 8
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179490
+#EXTINF:-1,Instat TV 9
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179491
+#EXTINF:-1,Instat TV 10
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179492
+#EXTINF:-1,Instat TV 11
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179493
+#EXTINF:-1,Instat TV 12
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179494
+#EXTINF:-1,Instat TV 13
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179495
+#EXTINF:-1,Instat TV 14
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179496
+#EXTINF:-1,Instat TV 15
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179497
+#EXTINF:-1,ES: INSTAT 16
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179498
+#EXTINF:-1,ES: INSTAT 17
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179499
+#EXTINF:-1,ES: INSTAT 18
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179500
+#EXTINF:-1,ES: INSTAT 19
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179501
+#EXTINF:-1,ES: INSTAT 20
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179502
+#EXTINF:-1,ES: INSTAT 21
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179503
+#EXTINF:-1,ES: INSTAT 22
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179504
+#EXTINF:-1,ES: INSTAT 23
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179505
+#EXTINF:-1,ES: INSTAT 24
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179506
+#EXTINF:-1,PL | ESPN 1 FHD (Latino)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179507
+#EXTINF:-1,PL | DAZN 1 MOVISTAR (ESPAÑA)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179508
+#EXTINF:-1,PL | ESPN 2 FHD (Latino)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179509
+#EXTINF:-1,PL | ESPN 3 FHD (Latino)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179510
+#EXTINF:-1,PL | NBC SPORTS NETWORK (USA)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179511
+#EXTINF:-1,PL | NBC Universo HD (Latino)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179512
+#EXTINF:-1,PL | SKY SPORTS 24 PREMIER
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179513
+#EXTINF:-1,PL | Sky Sports Premiere League HD (UK)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179514
+#EXTINF:-1,PL | Super Sport PL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179515
+#EXTINF:-1,ESPAÑA | LA 2 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179530
+#EXTINF:-1,ESPAÑA  | La 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179531
+#EXTINF:-1,ESPAÑA | LA 2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179532
+#EXTINF:-1,ESPAÑA | TELECINCO HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179533
+#EXTINF:-1,ESPAÑA | TELECINCO FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179534
+#EXTINF:-1,ESPAÑA | LA SEXTA HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179535
+#EXTINF:-1,ESPAÑA | LA SEXTA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179536
+#EXTINF:-1,ESPAÑA | TVG
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179537
+#EXTINF:-1,ESPAÑA | Telemadrid HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179538
+#EXTINF:-1,ESPAÑA | Telemadrid FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179539
+#EXTINF:-1,ESPAÑA | ETB 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179540
+#EXTINF:-1,ESPAÑA | ETB 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179541
+#EXTINF:-1,ESPAÑA | CANAL SUR SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179542
+#EXTINF:-1,ESPAÑA | CANAL SUR HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179543
+#EXTINF:-1,ESPAÑA | CANAL SUR FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179544
+#EXTINF:-1,ES : Canal Sur 2 Andalucía
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179545
+#EXTINF:-1,ESPAÑA : ALL FLAMENCO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179546
+#EXTINF:-1,ESPAÑA | Canal Malaga
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179547
+#EXTINF:-1,ESPAÑA | Canal Extremadura
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179548
+#EXTINF:-1,ESPAÑA |  Aragón TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179549
+#EXTINF:-1,ESPAÑA | Aragon TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179550
+#EXTINF:-1,ESPAÑA | Aragon TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179551
+#EXTINF:-1,ESPAÑA | Andalucia TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179552
+#EXTINF:-1,ESPAÑA | Andalucia TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179553
+#EXTINF:-1,ESPAÑA | Andalucia TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179554
+#EXTINF:-1,ESPAÑA | Cosmo SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179555
+#EXTINF:-1,ESPAÑA | Cosmo HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179556
+#EXTINF:-1,ESPAÑA : La Resistencia SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179557
+#EXTINF:-1,ESPAÑA : La Resistencia HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179558
+#EXTINF:-1,ESPAÑA : La Resistencia FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179559
+#EXTINF:-1,ESPAÑA | NEOX SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179560
+#EXTINF:-1,ESPAÑA | NEOX HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179561
+#EXTINF:-1,ESPAÑA | NEOX FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179562
+#EXTINF:-1,ESPAÑA : ATRESCINE HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179563
+#EXTINF:-1,ESPAÑA : M+ Fest SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179564
+#EXTINF:-1,ESPAÑA : M+ Fest HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179565
+#EXTINF:-1,ESPAÑA : M+ Fest FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179566
+#EXTINF:-1,ESPAÑA | TRECE TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179567
+#EXTINF:-1,ESPAÑA | TRECE TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179568
+#EXTINF:-1,ESPAÑA | Caza Y Pesca SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179569
+#EXTINF:-1,ESPAÑA : CAZAVISION
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179570
+#EXTINF:-1,ESPAÑA | Iberalia TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179571
+#EXTINF:-1,ESPAÑA | Iberalia TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179572
+#EXTINF:-1,ESPAÑA | Iberalia TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179573
+#EXTINF:-1,ESPAÑA | Nat Geo SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179574
+#EXTINF:-1,ESPAÑA | Nat Geo HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179575
+#EXTINF:-1,ESPAÑA | Nat Geo FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179576
+#EXTINF:-1,ESPAÑA | Nat Geo Wild SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179577
+#EXTINF:-1,ESPAÑA | Nat Geo Wild HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179578
+#EXTINF:-1,ESPAÑA | Nat Geo Wild FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179579
+#EXTINF:-1,ESPAÑA | Historia SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179580
+#EXTINF:-1,ESPAÑA | Historia HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179581
+#EXTINF:-1,ESPAÑA | Historia FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179582
+#EXTINF:-1,ESPAÑA | Discovery Channel SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179583
+#EXTINF:-1,ESPAÑA | Discovery Channel HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179584
+#EXTINF:-1,ESPAÑA | Discovery Channel FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179585
+#EXTINF:-1,ESPAÑA | ODISEA SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179586
+#EXTINF:-1,ESPAÑA | Odisea HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179587
+#EXTINF:-1,ESPAÑA | ODISEA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179588
+#EXTINF:-1,ESPAÑA | ODISEA 4K
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179589
+#EXTINF:-1,ESPAÑA | AMC BREAK SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179590
+#EXTINF:-1,ESPAÑA | AMC BREAK HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179591
+#EXTINF:-1,ESPAÑA | AMC BREAK FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179592
+#EXTINF:-1,ESPAÑA | DMAX SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179593
+#EXTINF:-1,ESPAÑA | DMAX FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179594
+#EXTINF:-1,ESPAÑA | Crimen & Investigacion SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179595
+#EXTINF:-1,ESPAÑA | Crimen & Investigacion HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179596
+#EXTINF:-1,ESPAÑA | Crimen & Investigacion FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179597
+#EXTINF:-1,ESPAÑA | Canal Decasa SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179598
+#EXTINF:-1,ESPAÑA | Canal Decasa HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179599
+#EXTINF:-1,ESPAÑA | Canal Decasa FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179600
+#EXTINF:-1,ESPAÑA | Canal Cocina SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179601
+#EXTINF:-1,ESPAÑA | Canal Cocina HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179602
+#EXTINF:-1,ESPAÑA | Canal Cocina FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179603
+#EXTINF:-1,ESPAÑA | NOVA SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179604
+#EXTINF:-1,ESPAÑA | Nova HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179605
+#EXTINF:-1,ESPAÑA | NOVA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179606
+#EXTINF:-1,ESPAÑA | MEGA SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179607
+#EXTINF:-1,ESPAÑA | MEGA HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179608
+#EXTINF:-1,ESPAÑA | MEGA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179609
+#EXTINF:-1,ESPAÑA | BE MAD SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179610
+#EXTINF:-1,ESPAÑA  | BE MAD HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179611
+#EXTINF:-1,ESPAÑA | BE MAD FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179612
+#EXTINF:-1,ESPAÑA | Baby TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179613
+#EXTINF:-1,ESPAÑA | Baby TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179614
+#EXTINF:-1,ESPAÑA | Disney Junior SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179615
+#EXTINF:-1,ESPAÑA | Disney Junior HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179616
+#EXTINF:-1,ESPAÑA | Disney Junior FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179617
+#EXTINF:-1,ESPAÑA | CANAL PANDA SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179618
+#EXTINF:-1,ESPAÑA | CANAL PANDA HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179619
+#EXTINF:-1,ESPAÑA | CANAL PANDA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179620
+#EXTINF:-1,ESPAÑA | Nick JR SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179621
+#EXTINF:-1,ESPAÑA | Nick JR HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179622
+#EXTINF:-1,ESPAÑA | Nick JR FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179623
+#EXTINF:-1,ESPAÑA | Nickelodeon SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179624
+#EXTINF:-1,ESPAÑA | Nickelodeon HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179625
+#EXTINF:-1,ESPAÑA | Nickelodeon FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179626
+#EXTINF:-1,ESPAÑA : DreamWorks SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179627
+#EXTINF:-1,ESPAÑA : DreamWorks HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179628
+#EXTINF:-1,ESPAÑA : DreamWorks FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179629
+#EXTINF:-1,ESPAÑA | Disney Channel SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179630
+#EXTINF:-1,ESPAÑA | Disney Channel HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179631
+#EXTINF:-1,ESPAÑA | Disney Channel FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179632
+#EXTINF:-1,ESPAÑA | BOING SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179633
+#EXTINF:-1,ESPAÑA | Boing HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179634
+#EXTINF:-1,ESPAÑA | BOING FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179635
+#EXTINF:-1,ESPAÑA | Clan SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179636
+#EXTINF:-1,ESPAÑA | Clan HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179637
+#EXTINF:-1,ESPAÑA | Clan FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179638
+#EXTINF:-1,ESPAÑA | MTV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179639
+#EXTINF:-1,ESPAÑA | MTV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179640
+#EXTINF:-1,ES : MEZZO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179641
+#EXTINF:-1,ES : MEZZO LIVE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179642
+#EXTINF:-1,ES : Classica SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179643
+#EXTINF:-1,ES : Classica HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179644
+#EXTINF:-1,ESPAÑA |  24 HORAS SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179645
+#EXTINF:-1,ESPAÑA | 24 HORAS HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179646
+#EXTINF:-1,ESPAÑA | 24 HORAS FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179647
+#EXTINF:-1,ESPAÑA | DKiss TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179648
+#EXTINF:-1,ESPAÑA | TEN
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179649
+#EXTINF:-1,ESPAÑA  | Canal CGTN Español
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179650
+#EXTINF:-1,ESPAÑA | Distrito TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179651
+#EXTINF:-1,ESPAÑA | TVE Internacional
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179652
+#EXTINF:-1,ESPAÑA : À PUNT
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179653
+#EXTINF:-1,ESPAÑA : TV3 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179654
+#EXTINF:-1,ESPAÑA : TV3 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179655
+#EXTINF:-1,ESPAÑA : MTV 00s
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179656
+#EXTINF:-1,ESPAÑA : Negocios TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179657
+#EXTINF:-1,ESPAÑA : EITB Basque
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179658
+#EXTINF:-1,ESPAÑA : Televisión Canaria
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179659
+#EXTINF:-1,ES : 101TV Málaga
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179660
+#EXTINF:-1,ES : Onda Cádiz
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179661
+#EXTINF:-1,ES : Mijas 3.40 TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179662
+#EXTINF:-1,ES : Córdoba TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179663
+#EXTINF:-1,ES : PTV MALAGA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179664
+#EXTINF:-1,ES : PTV CORDOBA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179665
+#EXTINF:-1,ES : PTV SEVILLA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179666
+#EXTINF:-1,ES : PTV GRANADA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179667
+#EXTINF:-1,ES : PTV LINARES
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179668
+#EXTINF:-1,ES : TV GALICIA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179669
+#EXTINF:-1,ES : 7 TV REGION DE MURCIA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179670
+#EXTINF:-1,ES : IB3
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179671
+#EXTINF:-1,ES  : LA 7
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179672
+#EXTINF:-1,ES : LA OTRA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179673
+#EXTINF:-1,ES : TV GALICIA 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179674
+#EXTINF:-1,ES : LA 8
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179675
+#EXTINF:-1,Sorteos Once Directo
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179676
+#EXTINF:-1,ESPAÑA : TPA 7
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179677
+#EXTINF:-1,ESPAÑA : Canal Málaga
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179678
+#EXTINF:-1,ESPAÑA : Galicia TV Momento
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179679
+#EXTINF:-1,ESPAÑA : Galicia TV Infantil
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179680
+#EXTINF:-1,ESPAÑA : Galicia TV Musica
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179681
+#EXTINF:-1,ESPAÑA : Galicia TV Cultural
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179682
+#EXTINF:-1,ESPAÑA : Popular TV Melilla
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179683
+#EXTINF:-1,ESPAÑA : TeleSafor
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179684
+#EXTINF:-1,CR | TD + FHD V*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121878
+#EXTINF:-1,CR | TD+ 2 V*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121879
+#EXTINF:-1,CR | FUTV V*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121880
+#EXTINF:-1,CR | REFRETEL 11
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121881
+#EXTINF:-1,CR | CNN
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121882
+#EXTINF:-1,CR | TD+2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121883
+#EXTINF:-1,CR | TD+ 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121884
+#EXTINF:-1,CR | TELETICA 7
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121885
+#EXTINF:-1,CR | TELESUR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121886
+#EXTINF:-1,CR | TELERED
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121887
+#EXTINF:-1,CR | EXTREMA TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121888
+#EXTINF:-1,CR | CANAL 88 STEREO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121889
+#EXTINF:-1,CR | ESPERANZA TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121890
+#EXTINF:-1,CR | ANEXION TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121891
+#EXTINF:-1,CR | MULTIMEDIOS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121892
+#EXTINF:-1,CR | TELE UNO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121893
+#EXTINF:-1,CR | TELEFIDES
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121894
+#EXTINF:-1,CR | SANTA CRUZ TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121895
+#EXTINF:-1,CR | NORTE INFORMATIVO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121896
+#EXTINF:-1,CR | TELE SISTEMA CANAL 9
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121897
+#EXTINF:-1,CR | CRUZ TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121898
+#EXTINF:-1,CR | TV SUR CANAL 14
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121899
+#EXTINF:-1,CR | RETRO CHANNEL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121900
+#EXTINF:-1,CR | RADIO URBANO TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121901
+#EXTINF:-1,CR | +TELEVISION
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121902
+#EXTINF:-1,CR | IQRADIO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121903
+#EXTINF:-1,CR |  NICOYA TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121904
+#EXTINF:-1,CR | VIDEO TOUR TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121905
+#EXTINF:-1,CR | CABLE SUR CANAL 5
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121906
+#EXTINF:-1,CR | TICA TV PLUS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121907
+#EXTINF:-1,CR | RETROPLUS 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121908
+#EXTINF:-1,CR | TVN CANAL 14
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121909
+#EXTINF:-1,CR | RETROPLUS MUSIC 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121910
+#EXTINF:-1,CR | EXTREME TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121911
+#EXTINF:-1,CR | TELETICA 7 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121912
+#EXTINF:-1,CR | REFRETEL 4 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121913
+#EXTINF:-1,CR | REFRETEL 6 HD.
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121914
+#EXTINF:-1,CR | CARTAGO MEDIOS TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121915
+#EXTINF:-1,CR | MULTIZONASTV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121916
+#EXTINF:-1,CR | EL CANAL DE LA MUSICA*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121917
+#EXTINF:-1,CR | COLOSAL TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121918
+#EXTINF:-1,CR | TVSUR*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121919
+#EXTINF:-1,CR | TELEUNO*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121920
+#EXTINF:-1,CR | TELETICA*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121921
+#EXTINF:-1,CR | Refretel CANAL 6*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121922
+#EXTINF:-1,CR | FUTV *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121923
+#EXTINF:-1,CR | FUTV **
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121924
+#EXTINF:-1,CR | MZ SPORTS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121925
+#EXTINF:-1,CR | FUTV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121926
+#EXTINF:-1,CR | VOICE OVER RADIO TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121927
+#EXTINF:-1,CR | ZONA MUSIC TV CR
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121928
+#EXTINF:-1,CR | TICA TV PLUS HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121929
+#EXTINF:-1,CR | MZ SPORTS 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121930
+#EXTINF:-1,CR | MULTIMEDIOS
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121931
+#EXTINF:-1,CR | MEGAHIITS TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121932
+#EXTINF:-1,CR | Canal 2 Refretel
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121933
+#EXTINF:-1,CR | Teletica Radio
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121934
+#EXTINF:-1,CR | TIGO SPORTS HD.
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121935
+#EXTINF:-1,CR | TV Sur Canal 9
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121936
+#EXTINF:-1,CR | TVN CANAL 14 *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121937
+#EXTINF:-1,CR | REFRETEL 11 *
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121938
+#EXTINF:-1,CR | REFRETEL 6 HD*
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121939
+#EXTINF:-1,CR | STV El Canal Familiar
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/121940
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
