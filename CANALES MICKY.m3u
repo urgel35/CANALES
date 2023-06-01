@@ -1,40 +1,260 @@
-﻿#EXTM3U
-
-#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/7oNe8xj.png" group-title="General",002 Radio TV (720p)
-https://cdn.002radio.com:3909/live/radio002live.m3u8
-
-#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies",A3Cine (1080p)
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-
-#EXTINF:-1,Canal SCÑ - San Carlos Ñuble | CL
-http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169466
-
-#EXTINF:-1,Canal Star Plus | PE
-https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/06/01/German_Bundesliga_Playoff_20230601_1685639141032/cmaf-cenc-ctr-5600K/map.mp4
-
-#EXTINF:-1,Canal Liga 1 Max | PE
-https://dtvott-abc.akamaized.net/dash_live_1272/dash/1272_LIGA_1_MAX-audio_72882_spa=72400.dash
-
-#EXTINF:-1,Espn | PE
-https://w7.supercast2.com:999/hls/espnsur.m3u8?md5=ThY6OrD4E7eVMGAVRrRK_A&expires=1685664127
-
-#EXTINF:-1,Espn 2 | PE
-https://w7.supercast2.com:999/hls/espnsur.m3u8
-
-#EXTINF:-1 ,Espn 3 | PE
-https://w8.supercast2.com:999/hls/espn3sur.m3u8
-
-#EXTINF:-1 ,Espn 4 | PE
-https://dtvott-cbc.akamaized.net/dash_live_1119/dash/1119_ESPN_4-video=3930000-101139434976411.dash
-
-#EXTINF:-1 ,DirecTv | PE
-https://w7.supercast2.com:999/hls/directvlive.m3u8
+#EXTM3U
 
 
+#EXTINF:-1,PERU | LIGA 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/162700
 
+#EXTINF:-1,PERU | LIGA 1 MAX
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/162701
 
+#EXTINF:-1,PERU | LIGA 1 MAX OP2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/165709
 
+#EXTINF:-1,PERU |  America TV OPC 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69793
 
+#EXTINF:-1,PERU | America TV FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69794
 
+#EXTINF:-1,PERU | America TV FHD P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69795
 
+#EXTINF:-1,PERU | America TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69796
 
+#EXTINF:-1,PERU | Antares TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69797
+
+#EXTINF:-1,PERU | +CAPITAL TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69799
+
+#EXTINF:-1,Peru | +Cumbia TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69800
+
+#EXTINF:-1,PERU | ATV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69801
+
+#EXTINF:-1,PERU | ATV + FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69802
+
+#EXTINF:-1,PERU | ATV PLUS HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69803
+
+#EXTINF:-1,Peru | Best Cable Sport
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69805
+
+#EXTINF:-1,PERU | CANAL N HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69807
+
+#EXTINF:-1,PERU | CANAL N HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69808
+
+#EXTINF:-1,PERU | Cultura 24 TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69810
+
+#EXTINF:-1,PERU | EXITOSA HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69811
+
+#EXTINF:-1,PERU | EXITOSA TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69812
+
+#EXTINF:-1,PERU | FUEGO TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69813
+
+#EXTINF:-1,PERU | GOLPERU HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69815
+
+#EXTINF:-1,PERU | IPE
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69818
+
+#EXTINF:-1,PERU | JUSTICIA TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69819
+
+#EXTINF:-1,PERU | LATINA FHD (EXCLUSIVO)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69821
+
+#EXTINF:-1,PERU | LATINA FHD P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69822
+
+#EXTINF:-1,PERU | LATINA TV FHD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69823
+
+#EXTINF:-1,PERU | Latina TV HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69824
+
+#EXTINF:-1,PERU | Latina TV SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69825
+
+#EXTINF:-1,PERU | MONTERRICO TV
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69826
+
+#EXTINF:-1,PERU | PANAMERICANA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69828
+
+#EXTINF:-1,PERU | PANAMERICANA  (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69829
+
+#EXTINF:-1,PERU | Peru Magico FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69830
+
+#EXTINF:-1,PERU | RPP HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69832
+
+#EXTINF:-1,Peru | SUR PERU
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69833
+
+#EXTINF:-1,PERU | TOPLATINOHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69834
+
+#EXTINF:-1,PERU | TV PERU HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69836
+
+#EXTINF:-1,PERU | TV PERU SD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69837
+
+#EXTINF:-1,PERU | Willax
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69842
+
+#EXTINF:-1,PERU | WillaX (R)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69843
+
+#EXTINF:-1,PERU | WILLAX HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69844
+
+#EXTINF:-1,PERU | WILLAX HD P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69845
+
+#EXTINF:-1,PERU | MOVISTAR DEPORTES
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69846
+
+#EXTINF:-1,PERU | Movistar Deportes FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69847
+
+#EXTINF:-1,PERU | M. DEPORTES HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69848
+
+#EXTINF:-1,PERU | Movistar Plus
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69849
+
+#EXTINF:-1,PERU - LS | Gol Peru FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69850
+
+#EXTINF:-1,PERU - LS | Gol Peru HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69851
+
+#EXTINF:-1,PERU - LS | Gol Peru SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69852
+
+#EXTINF:-1,PERU | Gol Peru FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69853
+
+#EXTINF:-1,PERU | GOL PERU FHD P
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69854
+
+#EXTINF:-1,PERU | Gol Peru HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69855
+
+#EXTINF:-1,PERU | Gol Peru SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69856
+
+#EXTINF:-1,PERU | GOLPERU HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69857
+
+#EXTINF:-1,PERU |  Directv Sports + Plus (C-1080)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69858
+
+#EXTINF:-1,PERU |  Directv Sports 2 (C-1080)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69859
+
+#EXTINF:-1,PERU | Directv Sports Peru (C-HD)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69860
+
+#EXTINF:-1,PERU | ESPN 2 PERU HD (E)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/69861
+
+#EXTINF:-1,DIRECTV SPORTS FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179413
+
+#EXTINF:-1,PL | ESPN 1 FHD (Latino)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179414
+
+#EXTINF:-1,LALIGA | LA LIGA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179415
+
+#EXTINF:-1,ES |  LaLiga HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179416
+
+#EXTINF:-1,LALIGA | LALIGA HD EXTRA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179417
+
+#EXTINF:-1,LALIGA | LALIGA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179418
+
+#EXTINF:-1,LALIGA | LALIGA FHD EXTRA 1
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179419
+
+#EXTINF:-1,LALIGA | LALIGA FHD EXTRA 2
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179420
+
+#EXTINF:-1,LALIGA | MOVISTAR LALIGA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179421
+
+#EXTINF:-1,ES |  LA Liga FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179422
+
+#EXTINF:-1,DAZN LIGA SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179423
+
+#EXTINF:-1,DAZN LIGA HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179424
+
+#EXTINF:-1,DAZN LA LIGA FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179425
+
+#EXTINF:-1,DAZN LIGA 2 SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179426
+
+#EXTINF:-1,DAZN LIGA 2 HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179427
+
+#EXTINF:-1,DAZN LA LIGA 2 FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179428
+
+#EXTINF:-1,ES | Bein Sports LaLiga
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179429
+
+#EXTINF:-1,ES | Bein Sports LaLiga
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179430
+
+#EXTINF:-1,ES | beINSport LaLiga HD  ( SOLO EVENTOS)
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179431
+
+#EXTINF:-1,LALIGA | LALIGA BAR SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179432
+
+#EXTINF:-1,LALIGA | TV BAR EXCLUSIVO
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179433
+
+#EXTINF:-1,LALIGA | TV BAR EXCLUSIVO FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179434
+
+#EXTINF:-1,LALIGA | SKY SPORTS LALIGA
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179435
+
+#EXTINF:-1,EVENTOS STAR+ SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179436
+
+#EXTINF:-1,EVENTOS STAR+ SD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179437
+
+#EXTINF:-1,EVENTOS STAR+ HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179438
+
+#EXTINF:-1,EVENTOS STAR+ HD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179439
+
+#EXTINF:-1,EVENTOS STAR+ FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179440
+
+#EXTINF:-1,EVENTOS STAR+ FHD
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/179441
