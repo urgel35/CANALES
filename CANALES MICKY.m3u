@@ -1,0 +1,40 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/7oNe8xj.png" group-title="General",002 Radio TV (720p)
+https://cdn.002radio.com:3909/live/radio002live.m3u8
+
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies",A3Cine (1080p)
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1,Canal SCÑ - San Carlos Ñuble | CL
+http://premiumultra.xyz:8080/e92et36mw4/ghd75e54u4/169466
+
+#EXTINF:-1, Canal Star Plus | PE
+https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/06/01/German_Bundesliga_Playoff_20230601_1685639141032/cmaf-cenc-ctr-5600K/map.mp4
+
+#EXTINF:-1, Canal Liga 1 Max | PE
+https://dtvott-abc.akamaized.net/dash_live_1272/dash/1272_LIGA_1_MAX-audio_72882_spa=72400.dash
+
+#EXTINF:-1, Espn | PE
+https://w7.supercast2.com:999/hls/espnsur.m3u8?md5=ThY6OrD4E7eVMGAVRrRK_A&expires=1685664127
+
+#EXTINF:-1, Espn 2 | PE
+https://w7.supercast2.com:999/hls/espnsur.m3u8?md5=ThY6OrD4E7eVMGAVRrRK_A&expires=1685664127
+
+#EXTINF:-1, Espn 3 | PE
+https://w8.supercast2.com:999/hls/espn3sur.m3u8?md5=dcZ4sPEWl4TxX1zq5YlePQ&expires=1685664330
+
+#EXTINF:-1, Espn 4 | PE
+https://dtvott-cbc.akamaized.net/dash_live_1119/dash/1119_ESPN_4-video=3930000-101139434976411.dash
+
+#EXTINF:-1, DirecTv | PE
+https://w7.supercast2.com:999/hls/directvlive.m3u8?md5=KNqje0NxCwo0LkD4_TO5Rg&expires=1685664531
+
+
+
+
+
+
+
+
+
